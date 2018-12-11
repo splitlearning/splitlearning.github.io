@@ -1,2 +1,2 @@
-## Split Learning
+Split Learning
 
