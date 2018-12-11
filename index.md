@@ -1,7 +1,7 @@
 # Split Learning Project Page: Distributed deep learning without sharing raw data
-<a href=""><img src="https://splitlearning.github.io/diab1.png" align="left" height="400" width="600" >
+<a href=""><img src="https://splitlearning.github.io/diab1.png" align="left" height="400" width="650" >
 
-Split learning naturally allows for various configurations of cooperating entities to train (and infer from) machine learning  models without sharing any raw data or detailed information about the model with each other. 
+Split learning naturally allows for various configurations of cooperating entities to train (and infer from) machine learning  models without sharing any raw data or detailed information about the model. 
 <br /><br /> In the simplest of configurations of split learning, each client (for example, radiology center) trains a partial deep  network up to a specific layer known as the cut layer. The outputs at the cut layer are sent to another entity   (server/another client) which completes the rest of the training without looking at raw data from
  any client that holds the raw data. This completes a round of forward propagation without sharing raw data. The gradients
  are now back propagated again from its last layer until the cut layer in a similar fashion. The gradients at the
