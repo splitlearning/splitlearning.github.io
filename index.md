@@ -1,5 +1,5 @@
 # Split Learning Project Page: Distributed deep learning without sharing raw data
-![Image of split example](https://splitlearning.github.io/diab1.png)  
+<a href=""><img src="https://splitlearning.github.io/diab1.png" align="left" height="400" width="600" >
 
 Split learning naturally allows for various configurations of cooperating entities to train (and infer from) machine learning models without sharing any raw data or detailed information about the model with each other. 
 In the simplest of configurations of split learning each client, (for example, radiology center) trains a partial
