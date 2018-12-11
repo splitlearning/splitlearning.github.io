@@ -9,3 +9,9 @@
 
 3.) Survey paper: No Peek: A Survey of private distributed deep learning, Praneeth Vepakomma, Tristan Swedish, Ramesh Raskar, Otkrist Gupta, Abhimanyu Dubey, https://arxiv.org/pdf/1812.03288.pdf (2018)
 
+## Split learning's computational and communication efficiency on clients:
+![Image of split example](https://splitlearning.github.io/splitTable.png)
+![Image of split example](https://splitlearning.github.io/splitPlot.png)
+
+## Versatile plug-and-play configurations of split learning
+![Image of split example](https://splitlearning.github.io/splitConfig.png)
