@@ -28,6 +28,5 @@ Split learning naturally allows for various configurations of cooperating entiti
 ## Versatile plug-and-play configurations of split learning
 Versatile configurations of split learning configurations cater to various practical settings of i) multiple entities holding different modalities of patient data, ii) centralized and local health entities collaborating on
 multiple tasks, iii) learning without sharing labels, iv) multi-task split learning, v) multi-hop split learning and other hybrid possibilities to name a few as shown below and further detailed in our paper here [(PDF)](https://arxiv.org/pdf/1812.00564.pdf "Pdf")
-
-![](hstps://splitlearning.github.io/splitConfig.png)
+![Split learning configurations](https://splitlearning.github.io/splitConfig.png)
 
