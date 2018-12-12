@@ -40,4 +40,5 @@ Versatile configurations of split learning configurations cater to various pract
 multiple tasks, iii) learning without sharing labels, iv) multi-task split learning, v) multi-hop split learning** and other hybrid possibilities to name a few as shown below and further detailed in our paper here [(PDF)](https://arxiv.org/pdf/1812.00564.pdf "Pdf")
 ![Split learning configurations](https://splitlearning.github.io/splitConfig.png)
 
-
+## News stories
+MIT Technology Review: https://www.technologyreview.com/the-download/612567/a-new-ai-method-can-train-on-medical-records-without-revealing-patient-data/
