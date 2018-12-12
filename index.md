@@ -19,10 +19,6 @@ distributed split learning network is trained without looking at each others raw
 
 3.) Survey paper: No Peek: A Survey of private distributed deep learning, Praneeth Vepakomma, Tristan Swedish, Ramesh Raskar, Otkrist Gupta, Abhimanyu Dubey, [(PDF)](https://arxiv.org/pdf/1812.03288.pdf "Pdf") (2018)
 
-## Slides on split learning for data transparent ML
-<a href="https://www.slideshare.net/cameraculture/split-learning-versus-federated-learning-for-data-transparent-ml"><img src="https://splitlearning.github.io/splitSlides.png" align="left" height="400" width="600" ></a><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
-
 ## Split learning's computational and communication efficiency on clients:
 Client-side communication costs are significantly reduced as the data to be
 transmitted is restricted to initial layers of the split learning network (splitNN) prior to the split. The
@@ -35,12 +31,13 @@ burden when training on a larger number of clients as shown below in terms of te
 ![](https://splitlearning.github.io/splitTable.png)
 ![](https://splitlearning.github.io/splitPlot.png)
 
- 
-
 ## Versatile plug-and-play configurations of split learning
 Versatile configurations of split learning configurations cater to various practical settings of **i) multiple entities holding different modalities of patient data, ii) centralized and local health entities collaborating on
 multiple tasks, iii) learning without sharing labels, iv) multi-task split learning, v) multi-hop split learning** and other hybrid possibilities to name a few as shown below and further detailed in our paper here [(PDF)](https://arxiv.org/pdf/1812.00564.pdf "Pdf")
 ![Split learning configurations](https://splitlearning.github.io/splitConfig.png)
+
+## Slides on split learning for data transparent ML
+<a href="https://www.slideshare.net/cameraculture/split-learning-versus-federated-learning-for-data-transparent-ml"><img src="https://splitlearning.github.io/splitSlides.png" align="left" height="400" width="600" ></a><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ## News stories
 MIT Technology Review: https://www.technologyreview.com/the-download/612567/a-new-ai-method-can-train-on-medical-records-without-revealing-patient-data/
