@@ -22,8 +22,18 @@ Split learning naturally allows for various configurations of cooperating entiti
 
 
 ## Split learning's computational and communication efficiency on clients:
+Client-side communication costs are significantly reduced as the data to be
+transmitted is restricted to initial layers of the split learning network (splitNN) prior to the split. The
+client-side computation costs of learning the weights of the network are also
+significantly reduced for the same reason. In terms of model performance, the
+accuracies of Split NN remained competitive to other distributed deep learning methods like federated learning and large
+batch synchronous SGD with a drastically smaller client side computational
+burden when training on a larger number of clients as shown below in terms of teraflops of computation and gigabytes of communication when split learning is used to train Resnet and VGG architectures over 100 and 500 clients with CIFAR 10 and CIFAR 100 datasets. 
+
 ![](https://splitlearning.github.io/splitTable.png)
-![Image of split example](https://splitlearning.github.io/splitPlot.png)
+![](https://splitlearning.github.io/splitPlot.png)
+
+ 
 
 ## Versatile plug-and-play configurations of split learning
 Versatile configurations of split learning configurations cater to various practical settings of i) multiple entities holding different modalities of patient data, ii) centralized and local health entities collaborating on
