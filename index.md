@@ -37,7 +37,7 @@ multiple tasks, iii) learning without sharing labels, iv) multi-task split learn
 ![Split learning configurations](https://splitlearning.github.io/splitConfig.png)
 
 ## Slides on split learning for data transparent ML
-<a href="https://www.slideshare.net/cameraculture/split-learning-versus-federated-learning-for-data-transparent-ml"><img src="https://splitlearning.github.io/splitSlides.png" align="left" height="350" width="700" ></a><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<a href="https://www.slideshare.net/cameraculture/split-learning-versus-federated-learning-for-data-transparent-ml"><img src="https://splitlearning.github.io/splitSlides.png" align="left" height="350" width="700" ></a><br /><br />
 
 ## News stories
 MIT Technology Review: https://www.technologyreview.com/the-download/612567/a-new-ai-method-can-train-on-medical-records-without-revealing-patient-data/
