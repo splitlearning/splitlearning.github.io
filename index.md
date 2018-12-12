@@ -1,13 +1,15 @@
 # Split Learning Project Page: Distributed deep learning without sharing raw data
 
-**Abstract:** Split learning naturally allows for various configurations of cooperating entities to train (and infer from) &nbsp; machine learning  models without sharing any raw data or detailed information about the model. This method has been &nbsp; developed by the MIT Media Lab’s Camera Culture group.
-<a href=""><img src="https://splitlearning.github.io/diab1.png" align="left" height="420" width="900">
-<br /><br /> **Key idea:** In the simplest of configurations of split learning, each client (for example, radiology center) trains a partial deep  network up to a specific layer known as the cut layer. The outputs at the cut layer are sent to another entity   (server/another client) which completes the rest of the training without looking at raw data from
- any client that holds the raw data. This completes a round of forward propagation without sharing raw data. The gradients
- are now back propagated again from its last layer until the cut layer in a similar fashion. The gradients at the
- cut layer (and only these gradients) are sent back to radiology client centers. The rest of back
- propagation is now completed at the radiology client centers. This process is continued until the
- distributed split learning network is trained without looking at each others raw data.
+**Abstract:** Split learning naturally allows for various configurations of cooperating entities to train (and infer from) machine learning  models without sharing any raw data or detailed information about the model. This method has been developed by the MIT Media Lab’s Camera Culture group.
+
+<a href=""><img src="https://splitlearning.github.io/diab1.png" align="left" height="420" width="900"> </a>
+
+<br /><br />**Key idea:** In the simplest of configurations of split learning, each client (for example, radiology center) trains a partial deep  network up to a specific layer known as the cut layer. The outputs at the cut layer are sent to another entity  (server/another client) which completes the rest of the training without looking at raw data from
+any client that holds the raw data. This completes a round of forward propagation without sharing raw data. The gradients
+are now back propagated again from its last layer until the cut layer in a similar fashion. The gradients at the
+cut layer (and only these gradients) are sent back to radiology client centers. The rest of back
+propagation is now completed at the radiology client centers. This process is continued until the
+distributed split learning network is trained without looking at each others raw data.
 
 ## Split Learning Papers:
 
