@@ -1,5 +1,5 @@
 # Split Learning Project Page: Distributed deep learning without sharing raw data
-<a href=""><img src="https://splitlearning.github.io/diab1.png" align="left" height="400" width="650" >
+> <a href=""><img src="https://splitlearning.github.io/diab1.png" align="left" height="400" width="650" >  
 
 
 **Abstract:** Split learning naturally allows for various configurations of cooperating entities to train (and infer from) &nbsp; machine learning  models without sharing any raw data or detailed information about the model. This method has been &nbsp; developed by the MIT Media Lab’s Camera Culture group.
