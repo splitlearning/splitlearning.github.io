@@ -1,8 +1,8 @@
 # Split Learning Project Page: Distributed deep learning without sharing raw data
 <a href=""><img src="https://splitlearning.github.io/diab1.png" align="left" height="400" width="650" >
 
-Split learning naturally allows for various configurations of cooperating entities to train (and infer from) machine learning  models without sharing any raw data or detailed information about the model. 
-<br /><br /> In the simplest of configurations of split learning, each client (for example, radiology center) trains a partial deep  network up to a specific layer known as the cut layer. The outputs at the cut layer are sent to another entity   (server/another client) which completes the rest of the training without looking at raw data from
+**Abstract:** Split learning naturally allows for various configurations of cooperating entities to train (and infer from) machine learning  models without sharing any raw data or detailed information about the model. This method has been developed by the MIT Media Lab’s Camera Culture group.
+<br /><br /><br /><br /> **Key idea:** In the simplest of configurations of split learning, each client (for example, radiology center) trains a partial deep  network up to a specific layer known as the cut layer. The outputs at the cut layer are sent to another entity   (server/another client) which completes the rest of the training without looking at raw data from
  any client that holds the raw data. This completes a round of forward propagation without sharing raw data. The gradients
  are now back propagated again from its last layer until the cut layer in a similar fashion. The gradients at the
  cut layer (and only these gradients) are sent back to radiology client centers. The rest of back
@@ -36,8 +36,8 @@ burden when training on a larger number of clients as shown below in terms of te
  
 
 ## Versatile plug-and-play configurations of split learning
-Versatile configurations of split learning configurations cater to various practical settings of i) multiple entities holding different modalities of patient data, ii) centralized and local health entities collaborating on
-multiple tasks, iii) learning without sharing labels, iv) multi-task split learning, v) multi-hop split learning and other hybrid possibilities to name a few as shown below and further detailed in our paper here [(PDF)](https://arxiv.org/pdf/1812.00564.pdf "Pdf")
+Versatile configurations of split learning configurations cater to various practical settings of **i) multiple entities holding different modalities of patient data, ii) centralized and local health entities collaborating on
+multiple tasks, iii) learning without sharing labels, iv) multi-task split learning, v) multi-hop split learning** and other hybrid possibilities to name a few as shown below and further detailed in our paper here [(PDF)](https://arxiv.org/pdf/1812.00564.pdf "Pdf")
 ![Split learning configurations](https://splitlearning.github.io/splitConfig.png)
 
 
