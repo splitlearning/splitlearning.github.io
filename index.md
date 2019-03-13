@@ -40,4 +40,8 @@ multiple tasks, iii) learning without sharing labels, iv) multi-task split learn
 <a href="https://www.slideshare.net/cameraculture/split-learning-versus-federated-learning-for-data-transparent-ml"><img src="https://splitlearning.github.io/splitSlides.png" align="left" height="350" width="700" ></a><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ## News stories
-**MIT Technology Review:** https://www.technologyreview.com/the-download/612567/a-new-ai-method-can-train-on-medical-records-without-revealing-patient-data/
+**MIT Technology Review:** A new AI method can train on medical records without revealing patient data https://www.technologyreview.com/the-download/612567/a-new-ai-method-can-train-on-medical-records-without-revealing-patient-data/
+
+**MIT Technology Review:** A little-known AI method can train on your health data without threatening your privacy https://www.technologyreview.com/s/613098/a-little-known-ai-method-can-train-on-your-health-data-without-threatening-your-privacy/
+
+**MIT Technology Review:** The Algorithm Newsletter: The privacy-preserving AI technique that will transform healthcare
