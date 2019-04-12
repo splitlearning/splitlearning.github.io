@@ -22,7 +22,7 @@ alt="AI for All | Speedtalk | Ramesh Raskar" width="240" height="180" border="10
 ## References
 <b>Split Learning Papers: </b>
 
-1.) “Distributed learning of deep neural network over multiple agents”, Otkrist Gupta and Ramesh Raskar, In: Journal of Network and Computer Applications 116, [(PDF)](https://www.sciencedirect.com/science/article/pii/S1084804518301590 "Pdf") (2018)
+1.) Distributed learning of deep neural network over multiple agents, Otkrist Gupta and Ramesh Raskar, In: Journal of Network and Computer Applications 116, [(PDF)](https://www.sciencedirect.com/science/article/pii/S1084804518301590 "Pdf") (2018)
 
 2.) Split learning for health: Distributed deep learning without sharing raw patient data, Praneeth Vepakomma, Otkrist Gupta, Tristan Swedish, Ramesh Raskar, [(PDF)](https://arxiv.org/pdf/1812.00564.pdf "Pdf") (2018)
 
@@ -30,9 +30,9 @@ alt="AI for All | Speedtalk | Ramesh Raskar" width="240" height="180" border="10
 
 <b>AutoML Papers: </b>
 
-1.) “Accelerating neural architecture search using performance prediction”, Bowen Baker, Otkrist Gupta, Ramesh Raskar, Nikhil Naik, In: conference paper at ICLR, [(PDF)](https://arxiv.org/pdf/1705.10823.pdf "Pdf") (2018)
+1.) Accelerating neural architecture search using performance prediction, Bowen Baker, Otkrist Gupta, Ramesh Raskar, Nikhil Naik, In: conference paper at ICLR, [(PDF)](https://arxiv.org/pdf/1705.10823.pdf "Pdf") (2018)
 
-2.) “Designing neural network architecture using reinforcement learning”, Bowen Baker, Otkrist Gupta, Nikhil Naik & Ramesh Raskar, In: conference paper at ICLR, [(PDF)](https://arxiv.org/pdf/1611.02167.pdf "Pdf") (2017)
+2.) Designing neural network architecture using reinforcement learning, Bowen Baker, Otkrist Gupta, Nikhil Naik & Ramesh Raskar, In: conference paper at ICLR, [(PDF)](https://arxiv.org/pdf/1611.02167.pdf "Pdf") (2017)
 
 ## Come join us to learn more (CVPR Tutorial):
 We are giving a half-day tutorial at CVPR 2019: 
