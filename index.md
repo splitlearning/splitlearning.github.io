@@ -53,7 +53,7 @@ burden when training on a larger number of clients as shown below in terms of te
 ## Versatile plug-and-play configurations of split learning
 Versatile configurations of split learning configurations cater to various practical settings of **i) multiple entities holding different modalities of patient data, ii) centralized and local health entities collaborating on
 multiple tasks, iii) learning without sharing labels, iv) multi-task split learning, v) multi-hop split learning** and other hybrid possibilities to name a few as shown below and further detailed in our paper here [(PDF)](https://arxiv.org/pdf/1812.00564.pdf "Pdf")
-<p align="center"><img src="https://splitlearning.github.io/splitConfig.png" height="400"></p><br /><br />
+<p align="center"><img src="https://splitlearning.github.io/splitConfig.png" height="400"></p><br />
 
 ## Slides on split learning for data transparent ML
 <p align="center"><a href="https://www.slideshare.net/cameraculture/split-learning-versus-federated-learning-for-data-transparent-ml"><img src="https://splitlearning.github.io/splitSlides.png" align="center" height="350" width="600" ></a></p>
