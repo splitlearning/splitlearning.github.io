@@ -36,7 +36,7 @@ alt="AI for All | Speedtalk | Ramesh Raskar" width="240" height="180" border="10
 
 ## Upcoming: CVPR Tutorial
 We are giving a half-day tutorial at CVPR 2019: 
-On Distributed Private Machine Learning for Computer Vision: Federated Learning, Split Learning and Beyond
+On Distributed Private Machine Learning for Computer Vision: Federated Learning, Split Learning and Beyond by
 Brendan McMahan, Jakub Konečný, Ramesh Raskar, Otkrist Gupta, Hassan Takabi and Praneeth Vepakomma
 
 ## Split learning's computational and communication efficiency on clients:
