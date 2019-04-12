@@ -34,6 +34,9 @@ alt="AI for All | Speedtalk | Ramesh Raskar" width="240" height="180" border="10
 
 2.) “Designing neural network architecture using reinforcement learning”, Bowen Baker, Otkrist Gupta, Nikhil Naik & Ramesh Raskar, In: conference paper at ICLR, [(PDF)](https://arxiv.org/pdf/1611.02167.pdf "Pdf") (2017)
 
+## Come join us to learn more (CVPR Tutorial):
+We are giving a half-day tutorial at CVPR 2019: 
+On Distributed Private Machine Learning for Computer Vision: Federated Learning, Split Learning and Beyond
 
 ## Split learning's computational and communication efficiency on clients:
 Client-side communication costs are significantly reduced as the data to be
@@ -53,11 +56,7 @@ multiple tasks, iii) learning without sharing labels, iv) multi-task split learn
 <p align="center"><img src="https://splitlearning.github.io/splitConfig.png" height="400"></p><br /><br />
 
 ## Slides on split learning for data transparent ML
-<p align="center"><a href="https://www.slideshare.net/cameraculture/split-learning-versus-federated-learning-for-data-transparent-ml"><img src="https://splitlearning.github.io/splitSlides.png" align="center" height="350" width="600" ></a></p><br /><br /><br />
-
-## Come join us to learn more (CVPR Tutorial):
-We are giving a half-day tutorial at CVPR 2019: 
-On Distributed Private Machine Learning for Computer Vision: Federated Learning, Split Learning and Beyond
+<p align="center"><a href="https://www.slideshare.net/cameraculture/split-learning-versus-federated-learning-for-data-transparent-ml"><img src="https://splitlearning.github.io/splitSlides.png" align="center" height="350" width="600" ></a></p>
 
 ## News stories
 **MIT Technology Review:** A new AI method can train on medical records without revealing patient data https://www.technologyreview.com/the-download/612567/a-new-ai-method-can-train-on-medical-records-without-revealing-patient-data/
