@@ -34,10 +34,11 @@ alt="AI for All | Speedtalk | Ramesh Raskar" width="240" height="180" border="10
 
 2.) Designing neural network architecture using reinforcement learning, Bowen Baker, Otkrist Gupta, Nikhil Naik & Ramesh Raskar, In: conference paper at ICLR, [(PDF)](https://arxiv.org/pdf/1611.02167.pdf "Pdf") (2017)
 
-## Upcoming: CVPR Tutorial
+## Upcoming: CVPR Tutorial on “Distributed Private Machine Learning for Computer Vision: Federated Learning and Beyond”.
 We are giving a half-day tutorial at CVPR 2019: 
 On Distributed Private Machine Learning for Computer Vision: Federated Learning, Split Learning and Beyond by
-Brendan McMahan, Jakub Konečný, Ramesh Raskar, Otkrist Gupta, Hassan Takabi and Praneeth Vepakomma
+<b> Brendan McMahan (Google, USA)</b>, <b>Jakub Konečný</b> (Google, USA), <b>Otkrist Gupta (LendBuzz)</b>, <b>Ramesh Raskar</b> (MIT Media Lab, Cambridge, Massachusetts, USA),<b> Hassan Takabi</b> (University of North Texas, Texas, USA) and <b>Praneeth Vepakomma</b> (MIT Media Lab, Cambridge, Massachusetts, USA).
+<br />
 
 ## Split learning's computational and communication efficiency on clients:
 Client-side communication costs are significantly reduced as the data to be
