@@ -42,7 +42,7 @@ On Distributed Private Machine Learning for Computer Vision: Federated Learning,
 <b> Brendan McMahan (Google, USA)</b>, <b>Jakub Konečný</b> (Google, USA), <b>Otkrist Gupta (LendBuzz)</b>, <b>Ramesh Raskar</b> (MIT Media Lab, Cambridge, Massachusetts, USA),<b> Hassan Takabi</b> (University of North Texas, Texas, USA) and <b>Praneeth Vepakomma</b> (MIT Media Lab, Cambridge, Massachusetts, USA).
 <br />
 ## Recent talk on Split Learning at Datacouncil.ai SF 2019 [(Slides)](splitlearning.github.io/Split-Learning-A-Resource-Efficient-Distributed-Deep-Learning-Method-Without-Sensitive-Data-Sharing.pdf "Slides")
-<br />
+
 ## Recent course on Advances in imaging and machine learning: Medical, VR-AR, And Self-Driving Cars [(Link)](https://professional.mit.edu/programs/short-programs/advances-imaging "Link")
 
 ## Split learning's computational and communication efficiency on clients:
