@@ -9,8 +9,7 @@ any client that holds the raw data. This completes a round of forward propagatio
 are now back propagated again from its last layer until the cut layer in a similar fashion. The gradients at the
 cut layer (and only these gradients) are sent back to radiology client centers. The rest of back
 propagation is now completed at the radiology client centers. This process is continued until the
-distributed split learning network is trained without looking at each others raw data.
-
+distributed split learning network is trained without looking at each others raw data.<br />
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=GiGlHuWOwME
 " target="_blank"><img src="http://img.youtube.com/vi/GiGlHuWOwME/0.jpg" 
 alt="Health Grid: Blockchain-based Data Marketplace | Ramesh Raskar | WEF 2019" width="240" height="180" border="10" /></a>     <a href="http://www.youtube.com/watch?feature=player_embedded&v=8GtJ1bWHZvg
@@ -18,6 +17,11 @@ alt="Health Grid: Blockchain-based Data Marketplace | Ramesh Raskar | WEF 2019" 
 alt="RAMESH RASKAR INTERVIEW WITH BLOXLIVE AT THE WEF" width="240" height="180" border="10" /></a> <a href="http://www.youtube.com/watch?feature=player_embedded&v=7jWXaABY81I
 " target="_blank"><img src="http://img.youtube.com/vi/7jWXaABY81I/0.jpg" 
 alt="AI for All | Speedtalk | Ramesh Raskar" width="240" height="180" border="10" /></a>
+<br />
+## SplitNN Architectures
+<p align="center"><a href=""><img src="https://splitlearning.github.io/alicebob0.png" height="190" width="190"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href=""><img src="https://splitlearning.github.io/alicebob1.png" height="190" width="190"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href=""><img src="https://splitlearning.github.io/alicebob.png" height="190" width="190"></a></p>
 
 ## References
 <b>Split Learning Papers: </b>
@@ -56,6 +60,7 @@ burden when training on a larger number of clients as shown below in terms of te
 
 <p align="center"><img src="https://splitlearning.github.io/splitTable.png" height="320" width="600"></p>
 <p align="center"><img src="https://splitlearning.github.io/splitPlot.png" height="350" width="700"></p>
+
 
 ## Versatile plug-and-play configurations of split learning
 Versatile configurations of split learning configurations cater to various practical settings of **i) multiple entities holding different modalities of patient data, ii) centralized and local health entities collaborating on
