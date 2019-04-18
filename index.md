@@ -43,7 +43,6 @@ On Distributed Private Machine Learning for Computer Vision: Federated Learning,
 <br />
 ## Recent talk on Split Learning at Datacouncil.ai SF 2019 [(Slides)](splitlearning.github.io/Split-Learning-A-Resource-Efficient-Distributed-Deep-Learning-Method-Without-Sensitive-Data-Sharing.pdf "Slides")
 <br />
-
 ## Recent course on Advances in imaging and machine learning: Medical, VR-AR, And Self-Driving Cars [(Link)](https://professional.mit.edu/programs/short-programs/advances-imaging "Link")
 
 ## Split learning's computational and communication efficiency on clients:
