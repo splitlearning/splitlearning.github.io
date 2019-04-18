@@ -71,7 +71,7 @@ burden when training on a larger number of clients as shown below in terms of te
     Split learning requires absolutely no raw data sharing. Sectors like healthcare, finance, security, surveillance and others where data sharing is prohibited will benefit from our approach for training distributed deep learning models. Another modality of split learning called NoPeek SplitNN also drastically reduces leakage due to any communicated activations by reducing their distance correlation with raw data while maintaining model performance via categorical cross-entropy. 
     
 
-3. **How long will it take to transition from laboratory setting to actual data transfer between cooperating entities?**<br />
+3. **How long will it take to transition from laboratory setting to actual deployments between cooperating entities?**<br />
 	The approach is easily deployable for inter and intra entity or organizational collaboration and is highly versatile in terms of possible network topologies. Due to its high resource efficiency in terms of computations, memory, communication badnwidth it is also naturally suitable for distributed learning where the clients are pervasive and ubiquitous edge devices like mobile phones or IOT devices as well as across larger devices and organizations. 
 <br /><br />
  
