@@ -18,7 +18,10 @@ alt="RAMESH RASKAR INTERVIEW WITH BLOXLIVE AT THE WEF" width="240" height="180" 
 " target="_blank"><img src="http://img.youtube.com/vi/7jWXaABY81I/0.jpg" 
 alt="AI for All | Speedtalk | Ramesh Raskar" width="240" height="180" border="10" /></a>
 <br />
-
+## SplitNN Architectures
+<p align="center"><a href=""><img src="https://splitlearning.github.io/alicebob0.png" height="190" width="190"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href=""><img src="https://splitlearning.github.io/alicebob1.png" height="190" width="190"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href=""><img src="https://splitlearning.github.io/alicebob.png" height="190" width="190"></a></p>
 ## References
 <b>Split Learning Papers: </b>
 
@@ -56,11 +59,6 @@ burden when training on a larger number of clients as shown below in terms of te
 
 <p align="center"><img src="https://splitlearning.github.io/splitTable.png" height="320" width="600"></p>
 <p align="center"><img src="https://splitlearning.github.io/splitPlot.png" height="350" width="700"></p>
-
-## SplitNN Architectures
-<p align="center"><a href=""><img src="https://splitlearning.github.io/alicebob0.png" height="190" width="190"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href=""><img src="https://splitlearning.github.io/alicebob1.png" height="190" width="190"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href=""><img src="https://splitlearning.github.io/alicebob.png" height="190" width="190"></a></p>
  
 ## Versatile plug-and-play configurations of split learning
 Versatile configurations of split learning configurations cater to various practical settings of **i) multiple entities holding different modalities of patient data, ii) centralized and local health entities collaborating on
