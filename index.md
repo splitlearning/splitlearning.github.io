@@ -10,6 +10,7 @@ are now back propagated again from its last layer until the cut layer in a simil
 cut layer (and only these gradients) are sent back to radiology client centers. The rest of back
 propagation is now completed at the radiology client centers. This process is continued until the
 distributed split learning network is trained without looking at each others raw data.<br />
+## Privacy aware AI, Split Learning at World Economic Forum and Niti Aayog
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=GiGlHuWOwME
 " target="_blank"><img src="http://img.youtube.com/vi/GiGlHuWOwME/0.jpg" 
 alt="Health Grid: Blockchain-based Data Marketplace | Ramesh Raskar | WEF 2019" width="240" height="180" border="10" /></a>     <a href="http://www.youtube.com/watch?feature=player_embedded&v=8GtJ1bWHZvg
