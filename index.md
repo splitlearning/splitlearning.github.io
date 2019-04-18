@@ -20,9 +20,9 @@ alt="RAMESH RASKAR INTERVIEW WITH BLOXLIVE AT THE WEF" width="240" height="180" 
 alt="AI for All | Speedtalk | Ramesh Raskar" width="240" height="180" border="10" /></a>
 <br />
 ## SplitNN Architectures
-<p align="center"><a href=""><img src="https://splitlearning.github.io/alicebob0.png" height="190" width="190"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href=""><img src="https://splitlearning.github.io/alicebob1.png" height="190" width="190"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href=""><img src="https://splitlearning.github.io/alicebob.png" height="190" width="190"></a></p>
+<p align="center"><a href=""><img src="https://splitlearning.github.io/alicebob0.png" height="190" width="220"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href=""><img src="https://splitlearning.github.io/alicebob1.png" height="190" width="220"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href=""><img src="https://splitlearning.github.io/alicebob.png" height="190" width="220"></a></p>
 ## References
 <b>Split Learning Papers: </b>
 
