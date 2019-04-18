@@ -72,7 +72,7 @@ burden when training on a larger number of clients as shown below in terms of te
     
 
 3. **How long will it take to transition from laboratory setting to actual deployments between cooperating entities?**<br />
-	The approach is easily deployable for inter and intra entity or organizational collaboration and is highly versatile in terms of possible network topologies. Due to its high resource efficiency in terms of computations, memory, communication badnwidth it is also naturally suitable for distributed learning where the clients are pervasive and ubiquitous edge devices like mobile phones or IOT devices as well as across larger devices and organizations. 
+	The approach is easily deployable for inter and intra entity or organizational collaboration and is highly versatile in terms of possible network topologies. Due to its high resource efficiency in terms of computations, memory, communication bandwidth it is also naturally suitable for distributed learning where the clients are pervasive and ubiquitous edge devices like mobile phones or IOT devices as well as across larger devices and organizations. 
 <br /><br />
  
 ## Versatile plug-and-play configurations of split learning
