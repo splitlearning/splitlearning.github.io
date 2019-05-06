@@ -25,7 +25,8 @@ alt="AI for All | Speedtalk | Ramesh Raskar" width="240" height="180" border="10
  <a href=""><img src="https://splitlearning.github.io/alicebob.png" height="190" width="220"></a></p>
  
 ## Potential Partner/Want to connect with us?
-Please fill this [(form)](https://forms.gle/C7dX8ynRsre4xYdP8 "form") 
+Please fill this simple [form](https://forms.gle/C7dX8ynRsre4xYdP8 "form") to reach out
+
 ## References
 <b>Split Learning Papers: </b>
 
