@@ -94,4 +94,4 @@ multiple tasks, iii) learning without sharing labels, iv) multi-task split learn
 **MIT Technology Review:** The Algorithm Newsletter: The privacy-preserving AI technique that will transform healthcare
 
 ## Potential Partner/Want to connect with us?
-Please fill this [(form)] to reach out to us (https://forms.gle/C7dX8ynRsre4xYdP8 "form") 
+Please fill this [(form)](https://forms.gle/C7dX8ynRsre4xYdP8 "form")  to reach out to us 
