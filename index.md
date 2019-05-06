@@ -23,6 +23,9 @@ alt="AI for All | Speedtalk | Ramesh Raskar" width="240" height="180" border="10
 <p align="center"><a href=""><img src="https://splitlearning.github.io/alicebob0.png" height="190" width="220"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href=""><img src="https://splitlearning.github.io/alicebob1.png" height="190" width="220"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href=""><img src="https://splitlearning.github.io/alicebob.png" height="190" width="220"></a></p>
+ 
+## Potential Partner/Want to connect with us?
+Please fill this [(form)](https://forms.gle/C7dX8ynRsre4xYdP8 "form") 
 ## References
 <b>Split Learning Papers: </b>
 
@@ -89,3 +92,6 @@ multiple tasks, iii) learning without sharing labels, iv) multi-task split learn
 **MIT Technology Review:** A little-known AI method can train on your health data without threatening your privacy https://www.technologyreview.com/s/613098/a-little-known-ai-method-can-train-on-your-health-data-without-threatening-your-privacy/
 
 **MIT Technology Review:** The Algorithm Newsletter: The privacy-preserving AI technique that will transform healthcare
+
+## Potential Partner/Want to connect with us?
+Please fill this [(form)](https://forms.gle/C7dX8ynRsre4xYdP8 "form") 
