@@ -88,14 +88,14 @@ multiple tasks, iii) learning without sharing labels, iv) multi-task split learn
 <p align="center"><a href="https://www.slideshare.net/cameraculture/split-learning-versus-federated-learning-for-data-transparent-ml"><img src="https://splitlearning.github.io/splitSlides.png" align="center" height="350" width="600" ></a></p>
 
 ## News stories
-A new AI method can train on medical records without revealing patient data <br /><br /> https://www.technologyreview.com/the-download/612567/a-new-ai-method-can-train-on-medical-records-without-revealing-patient-data/
+1. A new AI method can train on medical records without revealing patient data <br /><br /> https://www.technologyreview.com/the-download/612567/a-new-ai-method-can-train-on-medical-records-without-revealing-patient-data/
 
-A little-known AI method can train on your health data without threatening your privacy <br /><br /> https://www.technologyreview.com/s/613098/a-little-known-ai-method-can-train-on-your-health-data-without-threatening-your-privacy/
+2. A little-known AI method can train on your health data without threatening your privacy <br /><br /> https://www.technologyreview.com/s/613098/a-little-known-ai-method-can-train-on-your-health-data-without-threatening-your-privacy/
 
-The Algorithm Newsletter: The privacy-preserving AI technique that will transform healthcare <br /><br />
+3. The Algorithm Newsletter: The privacy-preserving AI technique that will transform healthcare <br /><br />
 https://go.technologyreview.com/the-privacy-preserving-machine-learning-technique-that-will-transform-healthcare
 
-Les Echos, Opinion | Medical secrecy, artificial intelligence and RGPD: irreconcilable? Not so sure… <br /><br />
+4. Les Echos, Opinion | Medical secrecy, artificial intelligence and RGPD: irreconcilable? Not so sure… <br /><br />
 https://www.lesechos.fr/idees-debats/cercle/opinion-secret-medical-intelligence-artificielle-et-rgpd-irreconciliables-pas-si-sur-999364
 
 ## Potential Partner/Want to connect with us?
