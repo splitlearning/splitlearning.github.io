@@ -94,7 +94,7 @@ multiple tasks, iii) learning without sharing labels, iv) multi-task split learn
 
 3. [(The Algorithm Newsletter: The privacy-preserving AI technique that will transform healthcare)](https://go.technologyreview.com/the-privacy-preserving-machine-learning-technique-that-will-transform-healthcare "The Algorithm Newsletter: The privacy-preserving AI technique that will transform healthcare") 
 
-4. [(Les Echos, Opinion | Medical secrecy, artificial intelligence and RGPD: irreconcilable? Not so sure…)](https://www.lesechos.fr/idees-debats/cercle/opinion-secret-medical-intelligence-artificielle-et-rgpd-irreconciliables-pas-si-sur-999364 "Les Echos, Opinion | Medical secrecy, artificial intelligence and RGPD: irreconcilable? Not so sure…") 
+4. [(Les Echos: Medical secrecy, artificial intelligence and RGPD: irreconcilable? Not so sure…)](https://www.lesechos.fr/idees-debats/cercle/opinion-secret-medical-intelligence-artificielle-et-rgpd-irreconciliables-pas-si-sur-999364 "Les Echos: Medical secrecy, artificial intelligence and RGPD: irreconcilable? Not so sure…") 
 
 
 ## Potential Partner/Want to connect with us?
