@@ -9,7 +9,7 @@
 <h4> Team: </h4>
 Ramesh Raskar, Associate Professor, MIT Media Lab; Principal Investigator (raskar(at)mit.edu)<br/>
 Praneeth Vepakomma,Research Assistant, MIT Media Lab (vepakom(at)mit.edu)<br/> 
-Otkrist Gupta, MIT Affiliate/LendBuzz<br/>Vitor Pamplona, MIT Affiliate/EyeNetra<br/>Kevin Pho, MIT UROP</br>
+Otkrist Gupta, MIT Affiliate/LendBuzz<br/>Vitor Pamplona, MIT Affiliate/EyeNetra<br/>Kevin Pho, MIT UROP
 
 **Application Scenarios:**
 
