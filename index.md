@@ -9,14 +9,11 @@
 <h4> Team: </h4>
 Ramesh Raskar, Associate Professor, MIT Media Lab; Principal Investigator (raskar(at)mit.edu)<br/>
 Praneeth Vepakomma,Research Assistant, MIT Media Lab (vepakom(at)mit.edu)<br/> 
-Otkrist Gupta, MIT Affiliate/LendBuzz<br/>
-Vitor Pamplona, MIT Affiliate/EyeNetra<br/>
-Kevin Pho, MIT UROP
-</br>
+Otkrist Gupta, MIT Affiliate/LendBuzz<br/>Vitor Pamplona, MIT Affiliate/EyeNetra<br/>Kevin Pho, MIT UROP</br>
 
 **Application Scenarios:**
 
-Split learning removes barriers for collaboration in a whole range of sectors including healthcare, finance, security, logistics, governance, operations and manufacturing. </br>
+Split learning removes barriers for collaboration in a whole range of sectors including healthcare, finance, security, logistics, governance, operations and manufacturing. 
 <p align="center"><a href=""><img src="https://splitlearning.github.io/diab1.png" height="320" width="600"></a></p>
 
 For example, a split learning configuration as shown below allows for resource-constrained local hospitals with smaller individual datasets to collaborate and build a machine learning model that offers superior healthcare diagnostics, without sharing any raw data across each other as necessitated by trust, regulation and privacy.
