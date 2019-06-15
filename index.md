@@ -1,15 +1,33 @@
 # Split Learning Project Page: Distributed deep learning without sharing raw data #
 
-**Abstract:** Split learning naturally allows for various configurations of cooperating entities to train (and infer from) machine learning  models without sharing any raw data or detailed information about the model. This method has been developed by the MIT Media Lab’s Camera Culture group.
+**Abstract:** Split learning is a technique developed at the MIT Media Lab’s Camera Culture group that allows for participating entities to train machine learning models without sharing any raw data.
 
-<p align="center"> <a href=""><img src="https://splitlearning.github.io/diab1.png" height="320" width="600"></a></p>
+<p align="center"><a href="https://www.slideshare.net/cameraculture/split-learning-versus-federated-learning-for-data-transparent-ml"><img src="https://splitlearning.github.io/splitSlides.png" align="center" height="350" width="600" ></a></p>
 
-**Key idea:** In the simplest of configurations of split learning, each client (for example, radiology center) trains a partial deep  network up to a specific layer known as the cut layer. The outputs at the cut layer are sent to another entity  (server/another client) which completes the rest of the training without looking at raw data from
-any client that holds the raw data. This completes a round of forward propagation without sharing raw data. The gradients
-are now back propagated again from its last layer until the cut layer in a similar fashion. The gradients at the
-cut layer (and only these gradients) are sent back to radiology client centers. The rest of back
-propagation is now completed at the radiology client centers. This process is continued until the
-distributed split learning network is trained without looking at each others raw data.<br />
+
+
+<h4> Team: </h4>
+Ramesh Raskar, Associate Professor, MIT Media Lab; Principal Investigator (raskar(at)mit.edu)<br/>
+Praneeth Vepakomma,Research Assistant, MIT Media Lab (vepakom(at)mit.edu)<br/> 
+Otkrist Gupta, MIT Affiliate/LendBuzz<br/>
+Vitor Pamplona, MIT Affiliate/EyeNetra<br/>
+Kevin Pho, MIT UROP
+</br>
+
+**Application Scenarios:**
+
+Split learning removes barriers for collaboration in a whole range of sectors including healthcare, finance, security, logistics, governance, operations and manufacturing. </br>
+<p align="center"><a href=""><img src="https://splitlearning.github.io/diab1.png" height="320" width="600"></a></p>
+
+For example, a split learning configuration as shown below allows for resource-constrained local hospitals with smaller individual datasets to collaborate and build a machine learning model that offers superior healthcare diagnostics, without sharing any raw data across each other as necessitated by trust, regulation and privacy.
+
+<p align="center"><a href=""><img src="https://splitlearning.github.io/2.png" height="320" width="600"></a></p>
+
+**Landscape of related work**
+As shown below, split learning ideally fills the gap for being able to perform advanced AI tasks like training machine learning models in distributed settings with a substantial level of data protection. 
+<p align="center"><a href=""><img src="https://splitlearning.github.io/1.png" height="320" width="600"></a></p>
+
+
 ## Privacy aware AI, Split Learning at World Economic Forum and Niti Aayog
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=GiGlHuWOwME
 " target="_blank"><img src="http://img.youtube.com/vi/GiGlHuWOwME/0.jpg" 
@@ -25,7 +43,12 @@ alt="Ramesh Raskar: UNC-Chapel Hill Convocation Speaker | 2019" width="210" heig
 <br />
 
 
-
+**Key technical idea:** In the simplest of configurations of split learning, each client (for example, radiology center) trains a partial deep  network up to a specific layer known as the cut layer. The outputs at the cut layer are sent to another entity  (server/another client) which completes the rest of the training without looking at raw data from
+any client that holds the raw data. This completes a round of forward propagation without sharing raw data. The gradients
+are now back propagated again from its last layer until the cut layer in a similar fashion. The gradients at the
+cut layer (and only these gradients) are sent back to radiology client centers. The rest of back
+propagation is now completed at the radiology client centers. This process is continued until the
+distributed split learning network is trained without looking at each others raw data.<br />
 ## SplitNN Architectures
 <p align="center"><a href=""><img src="https://splitlearning.github.io/alicebob0.png" height="190" width="220"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href=""><img src="https://splitlearning.github.io/alicebob1.png" height="190" width="220"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -51,7 +74,7 @@ Please fill this simple [form](https://forms.gle/C7dX8ynRsre4xYdP8 "form") to re
 
 2.) Designing neural network architecture using reinforcement learning, Bowen Baker, Otkrist Gupta, Nikhil Naik & Ramesh Raskar, In: conference paper at ICLR, [(PDF)](https://arxiv.org/pdf/1611.02167.pdf "Pdf") (2017)
 
-## Upcoming: CVPR Tutorial on “Distributed Private Machine Learning for Computer Vision: Federated Learning, Split Learning and Beyond” [(Link)](https://nopeekcvpr.github.io/ "Link").
+## Upcoming: CVPR 2019 Half-Day Tutorial on “Distributed Private Machine Learning for Computer Vision: Federated Learning, Split Learning and Beyond” [(Link)](https://nopeekcvpr.github.io/ "Link").
 We are giving a half-day tutorial at CVPR 2019: 
 On Distributed Private Machine Learning for Computer Vision: Federated Learning, Split Learning and Beyond by
 <b> Brendan McMahan (Google, USA)</b>, <b>Jakub Konečný</b> (Google, USA), <b>Otkrist Gupta (LendBuzz)</b>, <b>Ramesh Raskar</b> (MIT Media Lab, Cambridge, Massachusetts, USA),<b> Hassan Takabi</b> (University of North Texas, Texas, USA) and <b>Praneeth Vepakomma</b> (MIT Media Lab, Cambridge, Massachusetts, USA).
@@ -90,9 +113,6 @@ burden when training on a larger number of clients as shown below in terms of te
 Versatile configurations of split learning configurations cater to various practical settings of **i) multiple entities holding different modalities of patient data, ii) centralized and local health entities collaborating on
 multiple tasks, iii) learning without sharing labels, iv) multi-task split learning, v) multi-hop split learning** and other hybrid possibilities to name a few as shown below and further detailed in our paper here [(PDF)](https://arxiv.org/pdf/1812.00564.pdf "Pdf")
 <p align="center"><img src="https://splitlearning.github.io/splitConfig.png" height="400"></p><br />
-
-## Slides on split learning for data transparent ML
-<p align="center"><a href="https://www.slideshare.net/cameraculture/split-learning-versus-federated-learning-for-data-transparent-ml"><img src="https://splitlearning.github.io/splitSlides.png" align="center" height="350" width="600" ></a></p>
 
 ## News stories
 1. [(A new AI method can train on medical records without revealing patient data)](https://www.technologyreview.com/the-download/612567/a-new-ai-method-can-train-on-medical-records-without-revealing-patient-data/ "A new AI method can train on medical records without revealing patient data") 
