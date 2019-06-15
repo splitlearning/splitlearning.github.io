@@ -12,7 +12,7 @@ Praneeth Vepakomma,Research Assistant, MIT Media Lab (vepakom(at)mit.edu)<br/>
 Otkrist Gupta, MIT Affiliate/LendBuzz<br/>
 Vitor Pamplona, MIT Affiliate/EyeNetra<br/>
 Kevin Pho, MIT UROP
-</br></br>
+</br>
 
 **Application Scenarios:**
 
