@@ -20,7 +20,7 @@ For example, a split learning configuration as shown below allows for resource-c
 
 <p align="center"><a href=""><img src="https://splitlearning.github.io/2.png" height="320" width="600"></a></p>
 
-**Landscape of related work**
+**Landscape of related work:**
 As shown below, split learning ideally fills the gap for being able to perform advanced AI tasks like training machine learning models in distributed settings with a substantial level of data protection. 
 <p align="center"><a href=""><img src="https://splitlearning.github.io/1.png" height="320" width="600"></a></p>
 
