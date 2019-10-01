@@ -79,11 +79,11 @@ Please fill this simple [form](https://forms.gle/C7dX8ynRsre4xYdP8 "form") to re
 
 4.) Survey paper: No Peek: A Survey of private distributed deep learning, Praneeth Vepakomma, Tristan Swedish, Ramesh Raskar, Otkrist Gupta, Abhimanyu Dubey, [(PDF)](https://arxiv.org/pdf/1812.03288.pdf "Pdf") (2018)
 
-5.) Detailed comparison of communication efficiency of split learning and federated learning, Abhishek Singh, Praneeth Vepakomma, Otkrist Gupta, Ramesh Raskar 
+5.) Detailed comparison of communication efficiency of split learning and federated learning, Abhishek Singh, Praneeth Vepakomma, Otkrist Gupta, Ramesh Raskar (2019)
 
-6.) ExpertMatcher: Automating ML Model Selection for Users in Resource Constrained Countries, Vivek Sharma, Praneeth Vepakomma, Tristan Swedish, Ken Chang, Jayashree Kalpathy-Cramer, and Ramesh Raskar
+6.) ExpertMatcher: Automating ML Model Selection for Users in Resource Constrained Countries, Vivek Sharma, Praneeth Vepakomma, Tristan Swedish, Ken Chang, Jayashree Kalpathy-Cramer, and Ramesh Raskar (2019)
 
-7.) Split Learning for collaborative deep learning in healthcare, Maarten G.Poirot, Praneeth Vepakomma, Ken Chang, Jayashree Kalpathy-Cramer, Rajiv Gupta, Ramesh Raskar
+7.) Split Learning for collaborative deep learning in healthcare, Maarten G.Poirot, Praneeth Vepakomma, Ken Chang, Jayashree Kalpathy-Cramer, Rajiv Gupta, Ramesh Raskar (2019)
 
 
 <b>AutoML Papers: </b>
