@@ -89,6 +89,7 @@ Please fill this simple [form](https://forms.gle/C7dX8ynRsre4xYdP8 "form") to re
 
 7.) Split Learning for collaborative deep learning in healthcare, Maarten G.Poirot, Praneeth Vepakomma, Ken Chang, Jayashree Kalpathy-Cramer, Rajiv Gupta, Ramesh Raskar (2019)
 
+8.) Advances and open problems in federated learning (with, 58 authors from 25 institutions!) [(PDF)](https://arxiv.org/pdf/1912.04977.pdf "Pdf") (2019)
 
 <b>AutoML Papers: </b>
 
