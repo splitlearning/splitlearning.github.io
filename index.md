@@ -88,15 +88,19 @@ Please fill this simple [form](https://forms.gle/C7dX8ynRsre4xYdP8 "form") to re
 
 3.) Split learning for health: Distributed deep learning without sharing raw patient data, Praneeth Vepakomma, Otkrist Gupta, Tristan Swedish, Ramesh Raskar, Accepted to ICLR 2019 Workshop on AI for social good.[(PDF)](https://arxiv.org/pdf/1812.00564.pdf "Pdf") (2018)
 
-4.) Survey paper: No Peek: A Survey of private distributed deep learning, Praneeth Vepakomma, Tristan Swedish, Ramesh Raskar, Otkrist Gupta, Abhimanyu Dubey, [(PDF)](https://arxiv.org/pdf/1812.03288.pdf "Pdf") (2018)
+4.) Detailed comparison of communication efficiency of split learning and federated learning, Abhishek Singh, Praneeth Vepakomma, Otkrist Gupta, Ramesh Raskar, [(PDF)](https://arxiv.org/pdf/1909.09145.pdf "Pdf") (2019)
 
-5.) Detailed comparison of communication efficiency of split learning and federated learning, Abhishek Singh, Praneeth Vepakomma, Otkrist Gupta, Ramesh Raskar, [(PDF)](https://arxiv.org/pdf/1909.09145.pdf "Pdf") (2019)
+5.) ExpertMatcher: Automating ML Model Selection for Users in Resource Constrained Countries, Vivek Sharma, Praneeth Vepakomma, Tristan Swedish, Ken Chang, Jayashree Kalpathy-Cramer, and Ramesh Raskar [(PDF)](https://arxiv.org/pdf/1910.02312.pdf "Pdf") (2019)
 
-6.) ExpertMatcher: Automating ML Model Selection for Users in Resource Constrained Countries, Vivek Sharma, Praneeth Vepakomma, Tristan Swedish, Ken Chang, Jayashree Kalpathy-Cramer, and Ramesh Raskar [(PDF)](https://arxiv.org/pdf/1910.02312.pdf "Pdf") (2019)
+6.) Split Learning for collaborative deep learning in healthcare, Maarten G.Poirot, Praneeth Vepakomma, Ken Chang, Jayashree Kalpathy-Cramer, Rajiv Gupta, Ramesh Raskar (2019)
 
-7.) Split Learning for collaborative deep learning in healthcare, Maarten G.Poirot, Praneeth Vepakomma, Ken Chang, Jayashree Kalpathy-Cramer, Rajiv Gupta, Ramesh Raskar (2019)
+<b>Survey Papers: </b>
 
-8.) Advances and open problems in federated learning (with, 58 authors from 25 institutions!) [(PDF)](https://arxiv.org/pdf/1912.04977.pdf "Pdf") (2019)
+1.) Advances and open problems in federated learning (with, 58 authors from 25 institutions!) [(PDF)](https://arxiv.org/pdf/1912.04977.pdf "Pdf") (2019)
+
+2.) No Peek: A Survey of private distributed deep learning, Praneeth Vepakomma, Tristan Swedish, Ramesh Raskar, Otkrist Gupta, Abhimanyu Dubey, [(PDF)](https://arxiv.org/pdf/1812.03288.pdf "Pdf") (2018)
+
+3.) A Review of Homomorphic Encryption Libraries for Secure Computation, Sai Sri Sathya, Praneeth Vepakomma, Ramesh Raskar, Ranjan Ramachandra, Santanu Bhattacharya, [(PDF)](https://arxiv.org/pdf/1812.02428.pdf "Pdf") (2018)
 
 <b>AutoML Papers: </b>
 
