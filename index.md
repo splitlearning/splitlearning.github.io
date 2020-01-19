@@ -50,10 +50,17 @@ are now back propagated again from its last layer until the cut layer in a simil
 cut layer (and only these gradients) are sent back to radiology client centers. The rest of back
 propagation is now completed at the radiology client centers. This process is continued until the
 distributed split learning network is trained without looking at each others raw data.<br />
-## SplitNN Architectures
+## SplitNN Architectures, Leakage Prevention and Diverse Applications
 <p align="center"><a href=""><img src="https://splitlearning.github.io/boomerang.png" height="190" width="220"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href=""><img src="https://splitlearning.github.io/alicebob.png" height="190" width="220"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href=""><img src="https://splitlearning.github.io/health_data.png" height="190" width="220"></a></p>
+<a href=""><img src="https://splitlearning.github.io/alicebob.png" height="190" width="220"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=""><img src="https://splitlearning.github.io/noPeek1.png" height="190" width="220"></a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=""><img src="https://splitlearning.github.io/recons.png" height="190" width="220">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=""><img src="https://splitlearning.github.io/colorectal.png" height="190" width="220">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=""><img src="https://splitlearning.github.io/health_data.png" height="190" width="220">
+</p>
 
 ## Potential Partner/Want to connect with us?
 Please fill this simple [form](https://forms.gle/C7dX8ynRsre4xYdP8 "form") to reach out
