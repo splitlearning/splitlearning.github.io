@@ -59,7 +59,7 @@ distributed split learning network is trained without looking at each others raw
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href=""><img src="https://splitlearning.github.io/colorectal.png" height="190" width="220">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href=""><img src="https://splitlearning.github.io/health_data.png" height="190" width="220">
+<a href=""><img src="https://splitlearning.github.io/health_data.png" height="190" width="220"></a>
 </p>
 
 ## Potential Partner/Want to connect with us?
