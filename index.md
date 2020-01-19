@@ -22,7 +22,7 @@ Split learning removes barriers for collaboration in a whole range of sectors in
 
 For example, a split learning configuration as shown below allows for resource-constrained local hospitals with smaller individual datasets to collaborate and build a machine learning model that offers superior healthcare diagnostics, without sharing any raw data across each other as necessitated by trust, regulation and privacy.
 
-<p align="center"><a href=""><img src="https://splitlearning.github.io/2.png" height="320" width="600"></a></p>
+<p align="center"><a href=""><img src="https://splitlearning.github.io/sl.png" height="320" width="600"></a></p>
 
 **Landscape of related work:**
 As shown below, split learning ideally fills the gap for being able to perform advanced AI tasks like training machine learning models in distributed settings with a substantial level of data protection.
@@ -51,9 +51,9 @@ cut layer (and only these gradients) are sent back to radiology client centers. 
 propagation is now completed at the radiology client centers. This process is continued until the
 distributed split learning network is trained without looking at each others raw data.<br />
 ## SplitNN Architectures
-<p align="center"><a href=""><img src="https://splitlearning.github.io/alicebob0.png" height="190" width="220"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href=""><img src="https://splitlearning.github.io/alicebob1.png" height="190" width="220"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href=""><img src="https://splitlearning.github.io/alicebob.png" height="190" width="220"></a></p>
+<p align="center"><a href=""><img src="https://splitlearning.github.io/boomerang.png" height="190" width="220"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href=""><img src="https://splitlearning.github.io/alicebob.png" height="190" width="220"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href=""><img src="https://splitlearning.github.io/health_data.png" height="190" width="220"></a></p>
 
 ## Potential Partner/Want to connect with us?
 Please fill this simple [form](https://forms.gle/C7dX8ynRsre4xYdP8 "form") to reach out
