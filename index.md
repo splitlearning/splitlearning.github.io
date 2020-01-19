@@ -53,7 +53,7 @@ distributed split learning network is trained without looking at each others raw
 ## SplitNN Architectures, Leakage Prevention and Diverse Applications
 <p align="center"><a href=""><img src="https://splitlearning.github.io/boomerang.png" height="190" width="220"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href=""><img src="https://splitlearning.github.io/alicebob.png" height="190" width="220"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href=""><img src="https://splitlearning.github.io/noPeek1.png" height="190" width="220"></a>
+<a href=""><img src="https://splitlearning.github.io/noPeek1.png" height="190" width="220">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href=""><img src="https://splitlearning.github.io/recons.png" height="190" width="220">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
