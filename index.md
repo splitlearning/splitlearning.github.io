@@ -44,7 +44,6 @@ alt="Ramesh Raskar: UNC-Chapel Hill Convocation Speaker | 2019" width="210" heig
 <a href="https://www.youtube.com/watch?v=x9TCYuMUnco
 " target="_blank"><img src="http://img.youtube.com/vi/x9TCYuMUnco/0.jpg"
 alt="Ramesh Raskar: TEDxBeaconStreet | 2019" width="210" height="180" border="10" /></a>
-
 <a href="https://www.youtube.com/watch?v=4PdBM76D5JY
 " target="_blank"><img src="http://img.youtube.com/vi/4PdBM76D5JY/0.jpg"
 alt="Ramesh Raskar: UNC-Chapel Hill Convocation Speaker | 2019" width="210" height="180" border="10" /></a>
