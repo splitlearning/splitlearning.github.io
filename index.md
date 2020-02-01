@@ -158,3 +158,6 @@ Vitor Pamplona, MIT Affiliate<br/>
 Kevin Pho, MIT<br/>
 
 MIT Alliance for Distributed and Private Machine Learning
+
+## Potential Partner/Want to connect with us?
+Please fill this simple [form](https://forms.gle/C7dX8ynRsre4xYdP8 "form") to reach out
