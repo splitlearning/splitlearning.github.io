@@ -1,5 +1,5 @@
 # Distributed deep learning and inference without sharing raw data #
-## MIT Alliance for Distributed and Private Machine Learning
+## MIT Alliance for Distributed and Private Machine Learning 
 
 **Abstract:** Friction in data sharing is a large challenge for large scale machine learning. Recently techniques such as Federated Learning, Differential Privacy and Split Learning aim to address siloed and unstructured data, privacy and regulation of data sharing and incentive models for data transparent ecosystems. Split learning is a new technique developed at the MIT Media Lab’s Camera Culture group that allows for participating entities to train machine learning models without sharing any raw data.
 
