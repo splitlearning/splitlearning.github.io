@@ -12,6 +12,19 @@ The program members will meet 4 times a year, publish case studies of AI on silo
 
 MIT Media Lab consortium members can join the alliance as a special interest group SIG member. Non-member companies, startups and non-profits can join via undirected research gift. To know more about the program, please contact at <i>vepakom(at)mit.edu</i>
 
+## New: COVID19 SafePaths Project at [(CovidSafePaths.org)](https://covidsafepaths.org/ "CovidSafePaths.org")
+A global community-led movement
+Safe Paths develops free, open-source, privacy-by-design tools for residents, public health officials, and larger communities to flatten the curve of COVID-19, reduce fear, and prevent a surveillance-state response to the pandemic.
+
+**CovidSafePaths References**
+
+1.) Apps Gone Rogue: Maintaining Personal Privacy in an Epidemic, 2020. [(PDF)](https://arxiv.org/abs/2003.08567 "Pdf")
+
+2.) COVID-19 Contact-Tracing Mobile Apps: Evaluation and Assessment for Decision Makers, 2020. [(PDF)](https://drive.google.com/file/d/1A9Ft7-YpB9IOCbaLrRHrR34XP2SiSet5/view
+ "Pdf")
+ 
+3.)  Bluetooth based Proximity, Multi-hop Analysis and Bi-directional Trust: Epidemics and More, 2020. [(PDF)](https://www.researchgate.net/publication/340789081_Bluetooth_based_Proximity_Multi-hop_Analysis_and_Bi-directional_Trust_Epidemics_and_More
+ "Pdf")
 
 ## Split Learning and Inference:
 
