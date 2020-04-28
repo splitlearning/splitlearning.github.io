@@ -170,6 +170,11 @@ Otkrist Gupta, MIT Affiliate<br/>
 Vitor Pamplona, MIT Affiliate<br/>
 Kevin Pho, MIT<br/>
 
+OpenMined Collaborators: <br/>
+Andrew Trask
+Adam J. Hall
+Théo Ryffel
+
 MIT Alliance for Distributed and Private Machine Learning
 
 ## Potential Partner/Want to connect with us?
