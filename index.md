@@ -99,6 +99,11 @@ Please fill this simple [form](https://forms.gle/C7dX8ynRsre4xYdP8 "form") to re
 <br /><br />
 
 ## References
+
+<b>Splintering Papers: </b>
+
+1.)Splintering with distributions: A stochastic decoy scheme for private computation, Praneeth Vepakomma, Julia Balla, Ramesh Raskar, [(PDF)](https://arxiv.org/abs/2007.02719 "Pdf") (2020)
+
 <b>Split Learning Papers: </b>
 
 1.) Distributed learning of deep neural network over multiple agents, Otkrist Gupta and Ramesh Raskar, In: Journal of Network and Computer Applications 116, [(PDF)](https://www.sciencedirect.com/science/article/pii/S1084804518301590 "Pdf") (2018)
