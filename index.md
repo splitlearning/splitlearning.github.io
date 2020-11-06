@@ -129,6 +129,10 @@ Please fill this simple [form](https://forms.gle/C7dX8ynRsre4xYdP8 "form") to re
 
 3.) A Review of Homomorphic Encryption Libraries for Secure Computation, Sai Sri Sathya, Praneeth Vepakomma, Ramesh Raskar, Ranjan Ramachandra, Santanu Bhattacharya, [(PDF)](https://arxiv.org/pdf/1812.02428.pdf "Pdf") (2018)
 
+<b>Differentially Private Data Structures: </b>
+1.) DAMS: Meta-estimation of private sketch data structures for differentially private
+COVID-19 contact tracing, Praneeth Vepakomma, Subha Nawer Pushpita, Ramesh Raskar, PPML-NeurIPS 2020, [(PDF)](https://github.com/PrivateKit/PrivacyDocuments/blob/master/DAMS_Meta-estimation_of_private_sketch_data_structures_for_differentially_private_contact_tracing.pdf) (2020)
+
 <b>AutoML Papers: </b>
 
 1.) Accelerating neural architecture search using performance prediction, Bowen Baker, Otkrist Gupta, Ramesh Raskar, Nikhil Naik, In: conference paper at ICLR, [(PDF)](https://arxiv.org/pdf/1705.10823.pdf "Pdf") (2018)
