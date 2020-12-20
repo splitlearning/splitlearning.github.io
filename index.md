@@ -121,7 +121,7 @@ Please fill this simple [form](https://forms.gle/C7dX8ynRsre4xYdP8 "form") to re
 
 7.) Split Learning for collaborative deep learning in healthcare, Maarten G.Poirot, Praneeth Vepakomma, Ken Chang, Jayashree Kalpathy-Cramer, Rajiv Gupta, Ramesh Raskar (2019)
 
-8.) DISCO: Dynamic and Invariant Sensitive Channel Obfuscation, Abhishek Singh, Ayush Chopra, Vivek Sharma, Ethan Z. Garza, Emily Zhang, Praneeth Vepakomma, Ramesh Raskar (2020)
+8.) DISCO: Dynamic and Invariant Sensitive Channel Obfuscation, Abhishek Singh, Ayush Chopra, Vivek Sharma, Ethan Z. Garza, Emily Zhang, Praneeth Vepakomma, Ramesh Raskar [(PDF)](https://github.com/splitlearning/splitlearning.github.io/blob/master/DISCO.pdf "Pdf")(2020)
 
 <b>Survey Papers: </b>
 
