@@ -111,17 +111,17 @@ Please fill this simple [form](https://forms.gle/C7dX8ynRsre4xYdP8 "form") to re
 2.) NoPeek: Information leakage reduction to share activations in distributed deep learning, Praneeth Vepakomma, Otkrist Gupta, Abhimanyu Dubey, Ramesh Raskar,
 [(PDF)](https://arxiv.org/abs/2008.09161 "Pdf") (2020)
 
-3.) Reducing leakage in distributed deep learning for sensitive health data, Praneeth Vepakomma, Otkrist Gupta, Abhimanyu Dubey, Ramesh Raskar, Accepted to ICLR 2019 Workshop on AI for social good.[(PDF)](https://aiforsocialgood.github.io/iclr2019/accepted/track1/pdfs/29_aisg_iclr2019.pdf "Pdf") (2019)
+3.) DISCO: Dynamic and Invariant Sensitive Channel Obfuscation, Abhishek Singh, Ayush Chopra, Vivek Sharma, Ethan Z. Garza, Emily Zhang, Praneeth Vepakomma, Ramesh Raskar [(PDF)](https://github.com/splitlearning/splitlearning.github.io/blob/master/DISCO.pdf "Pdf")(2020)
 
-4.) Split learning for health: Distributed deep learning without sharing raw patient data, Praneeth Vepakomma, Otkrist Gupta, Tristan Swedish, Ramesh Raskar, Accepted to ICLR 2019 Workshop on AI for social good.[(PDF)](https://arxiv.org/pdf/1812.00564.pdf "Pdf") (2018)
+4.) FedML: A Research Library and Benchmark for Federated Machine Learning.[(PDF)](https://arxiv.org/abs/2007.13518 "Pdf") (2020)
 
-5.) Detailed comparison of communication efficiency of split learning and federated learning, Abhishek Singh, Praneeth Vepakomma, Otkrist Gupta, Ramesh Raskar, [(PDF)](https://arxiv.org/pdf/1909.09145.pdf "Pdf") (2019)
+5.) Split learning for health: Distributed deep learning without sharing raw patient data, Praneeth Vepakomma, Otkrist Gupta, Tristan Swedish, Ramesh Raskar, Accepted to ICLR 2019 Workshop on AI for social good.[(PDF)](https://arxiv.org/pdf/1812.00564.pdf "Pdf") (2018)
 
-6.) ExpertMatcher: Automating ML Model Selection for Users in Resource Constrained Countries, Vivek Sharma, Praneeth Vepakomma, Tristan Swedish, Ken Chang, Jayashree Kalpathy-Cramer, and Ramesh Raskar [(PDF)](https://arxiv.org/pdf/1910.02312.pdf "Pdf") (2019)
+6.) Detailed comparison of communication efficiency of split learning and federated learning, Abhishek Singh, Praneeth Vepakomma, Otkrist Gupta, Ramesh Raskar, [(PDF)](https://arxiv.org/pdf/1909.09145.pdf "Pdf") (2019)
 
-7.) Split Learning for collaborative deep learning in healthcare, Maarten G.Poirot, Praneeth Vepakomma, Ken Chang, Jayashree Kalpathy-Cramer, Rajiv Gupta, Ramesh Raskar (2019)
+7.) ExpertMatcher: Automating ML Model Selection for Users in Resource Constrained Countries, Vivek Sharma, Praneeth Vepakomma, Tristan Swedish, Ken Chang, Jayashree Kalpathy-Cramer, and Ramesh Raskar [(PDF)](https://arxiv.org/pdf/1910.02312.pdf "Pdf") (2019)
 
-8.) DISCO: Dynamic and Invariant Sensitive Channel Obfuscation, Abhishek Singh, Ayush Chopra, Vivek Sharma, Ethan Z. Garza, Emily Zhang, Praneeth Vepakomma, Ramesh Raskar [(PDF)](https://github.com/splitlearning/splitlearning.github.io/blob/master/DISCO.pdf "Pdf")(2020)
+8.) Split Learning for collaborative deep learning in healthcare, Maarten G.Poirot, Praneeth Vepakomma, Ken Chang, Jayashree Kalpathy-Cramer, Rajiv Gupta, Ramesh Raskar (2019)
 
 <b>Survey Papers: </b>
 
