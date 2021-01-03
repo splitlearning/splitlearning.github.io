@@ -14,7 +14,7 @@ The program members will meet 4 times a year, publish case studies of AI on silo
 
 MIT Media Lab consortium members can join the alliance as a special interest group SIG member. Non-member companies, startups and non-profits can join via undirected research gift. To know more about the program, please contact at *vepakom(at)mit.edu*
 
-## Pathcheck(https://www.pathcheck.org/)
+## [Pathcheck](https://www.pathcheck.org/)
 
 # Lanyon
 
