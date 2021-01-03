@@ -1,3 +1,21 @@
+# [splitlearning.github.io](https://splitlearning.github.io/)
+
+# Distributed deep learning and inference without sharing raw data
+
+## MIT Alliance for Distributed and Private Machine Learning
+
+**Abstract**: Friction in data sharing is a large challenge for large scale machine learning. Recently techniques such as Federated Learning, Differential Privacy and Split Learning aim to address siloed and unstructured data, privacy and regulation of data sharing and incentive models for data transparent ecosystems. Split learning is a new technique developed at the MIT Media Lab’s Camera Culture group that allows for participating entities to train machine learning models without sharing any raw data.
+
+## New Program: MIT Alliance for Distributed and Private Machine Learning
+
+The program will explore the main challenges in data friction that make capture, analysis and deployment of AI technologies. The challenges include siloed and unstructured data, privacy and regulation of data sharing and incentive models for data transparent ecosystems. The research program with study automated machine learning (AutoML), privacy preserving machine learning (PrivateML) and intrinsic as well as extrinsic data valuation (Data Markets). By working with a stakeholder and innovator network, we aim to create a standard for data transparent ecosystems that can simultaneously address the privacy and utility of data. Our broad focus would be on key technologies such as **Differential privacy, Federated Learning and Split Learning**.
+
+The program members will meet 4 times a year, publish case studies of AI on siloed data, will develop a curated github archive and engage in privacy aware data sharing protocol discussion towards a data exchange standard. We expect this integrated program to lead to many publications, training of talent, new technologies and standards.
+
+MIT Media Lab consortium members can join the alliance as a special interest group SIG member. Non-member companies, startups and non-profits can join via undirected research gift. To know more about the program, please contact at *vepakom(at)mit.edu*
+
+## Pathcheck(https://www.pathcheck.org/)
+
 # Lanyon
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
