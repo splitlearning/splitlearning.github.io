@@ -39,7 +39,7 @@
                             <div class="col-4"><span class="image fit"><img src="images/inference3.png" style="width:75%; margin:auto;" alt="" /></span></div>
                             <p><span style="font-weight: bold;">Landscape of related work:</span> As shown below, split learning ideally fills the gap for being able to perform advanced AI tasks like training machine learning models in distributed settings with a substantial level of data protection.</p>
                             <div class="col-4"><span class="image fit"><img src="images/inference4.png" style="width:75%; margin:auto;" alt="" /></span></div>
-                            <h1 class="major">SplitNN Architectures, Leakage Prevention and Diverse Applications</h1>
+                            <h2>SplitNN Architectures, Leakage Prevention and Diverse Applications</h2>
                             <div class="box alt">
                                 <div class="row gtr-uniform">
                                     <div class="col-4"><span class="image fit" style="height: 100%"><img src="images/splitnn1.png" style="height: 100%" alt="" /></span></div>
@@ -49,8 +49,19 @@
                                     <div class="col-4"><span class="image fit" style="height: 100%"><img src="images/splitnn5.png" style="height: 100%" alt="" /></span></div>
                                     <div class="col-4"><span class="image fit" style="height: 100%"><img src="images/splitnn6.png" style="height: 100%" alt="" /></span></div>
                                 </div>
-                            </div>
-                        </div>
+							</div>
+							<h2>Efficiency</h2>
+                            
+                            <h3>Split learning’s computational and communication efficiency on clients</h3>
+                            <p>Client-side communication costs are significantly reduced as the data to be transmitted is restricted to initial layers of the split learning network (splitNN) prior to the split. The client-side computation costs of learning the weights of the network are also significantly reduced for the same reason. In terms of model performance, the accuracies of Split NN remained competitive to other distributed deep learning methods like federated learning and large batch synchronous SGD with a drastically smaller client side computational burden when training on a larger number of clients as shown below in terms of teraflops of computation and gigabytes of communication when split learning is used to train Resnet and VGG architectures over 100 and 500 clients with CIFAR 10 and CIFAR 100 datasets.</p>
+                            <div class="col-4"><span class="image fit"><img src="images/quantitativeresults.png"  style="width:75%; margin:auto;" alt="" /></span></div>
+                            <div class="col-4"><span class="image fit"><img src="images/efficiency2.png"  style="width:75%; margin:auto;" alt="" /></span></div>
+
+                            <h3>Versatile plug-and-play configurations of split learning</h3>
+                            <p>Versatile configurations of split learning configurations cater to various practical settings of <u><span style="font-weight: bold;">i) multiple entities holding different modalities of patient data, ii) centralized and local health entities collaborating on multiple tasks, iii) learning without sharing labels, iv) multi-task split learning, v) multi-hop split learning</span></u> and other hybrid possibilities to name a few as shown below and further detailed in our paper <a href="https://arxiv.org/pdf/1812.00564.pdf">here (PDF)</a>. </p>
+                            <div class="col-4"><span class="image fit"><img src="images/versatile1.png" style="width:75%; margin:auto;"  alt="" /></span></div>
+						</div>
+						
 					</section>
 			</div>
 
