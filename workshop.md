@@ -6,4 +6,5 @@
 | Time (EST)            |    Title         |    Speakers         |
 | ----------------    | -------------    | -------------       |
 | 10:00 - 10:20 AM    | Opening Remarks  | Ramesh Raskar, Praneeth Vepakomma (MIT)  |
-| 10:20 - 10:35 AM    | Parallel Training of Deep Networks with Local Updates    | Michael Laskin, Luke Metz, Seth Nabarrao, Mark Saroufim, Badreddine Noune, Carlo Luschi, Jascha Sohl-Dickstein, Pieter Abbeel, (UC- Berkeley, Google Research, Graphcore Research)        |
+| 10:20 - 10:35 AM    | Parallel Training of Deep Networks with Local Updates    | Michael Laskin, Luke Metz, Seth Nabarrao, Mark Saroufim, Badreddine Noune, Carlo Luschi, Jascha Sohl-Dickstein, Pieter Abbeel, (UC- Berkeley, Google Research, Graphcore Research)
+| 10:35 - 10:50 AM    | Communication-Efficient Multimodal Split Learning for mmWave Received Power Prediction | Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu) |
