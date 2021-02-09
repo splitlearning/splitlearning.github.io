@@ -26,18 +26,17 @@ It is therefore important to build an organic community for this research area, 
 |1:15 - 1:30 PM    |Divide and Conquer: Leveraging Intermediate Feature Representations for Quantized Training of Neural Networks| Ahmed T. Elthakeb, Prannoy Pilligundla, Alex Cloninger, Hadi Esmaeilzadeh (UC-San Diego)
 |1:30 - 1:45 PM    |Distributed Min–Max Learning Scheme for Neural Networks With Applications to High-Dimensional Classification| Krishnan Raghavan, Shweta Garg, Sarangapani Jagannathan and V. A. Samaranayake (Missouri S&T)
 |1:45 - 2:00 PM    |Split learning for vertically partitioned data| Iker Ceballos, Vivek Sharma, Eduardo Mugica, Abhishek Singh, Praneeth Vepakomma, Ramesh Raskar (Acuratio/MIT)
-|2:00 - 2:05 PM    |Short Break
-|2:05 - 2:20 PM    |Distributed Heteromodal Split Learning for Vision Aided mmWave Received Power Prediction| Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu)
-|2:20 - 2:35 PM    |End-to-End Evaluation of Federated Learning and Split Learning for Internet of Things| Yansong Gao, Minki Kim, Sharif Abuadbba, Yeonjae Kim, Chandra Thapa, Kyuyeon Kim, Seyit A. Camtepe, Hyoungshick Kim, Surya Nepal, (CSIRO, DATA61, Sungkyunkwan University)
-|2:35 - 2:50 PM    | DeepObfuscator: Adversarial training framework for privacy-preserving image classification| Ang Li, Jiayi Guo, Huanrui Yang, Yiran Chen (Duke University, Tsinghua University)
-|2:50 - 3:05 PM    | NOPEEK: Information Leakage Reduction to Share Activations in Distributed Deep Learning| Praneeth Vepakomma, Abhishek Singh, Emily Zhang, Otkrist Gupta, Ramesh Raskar (MIT) 
-|3:05 - 3:20 PM    | Coffee Break
-|3:20 - 3:35 PM    | Split Learning for medical imaging: Multicenter deep learning without sharing patient data| Maarten G. Poirot, Praneeth Vepakomma, Ken Chang, Jayashree Kalpathy-Cramer, Rajiv Gupta, Ramesh Raskar (MGH/MIT/Twente/BWH)
-|3:35 - 3:50 PM    | SplitEasy: A Practical Approach for Training ML models on Mobile Devices in a split second| Kamalesh Palanisamy (Undergrad), Vivek Khimani, Moin Hussain Moti, Dimitris Chatzopoulos (NIT Trichy, Drexel University, The Hong Kong University of Science and Technology-HKUST)
-|3:50 - 4:05 PM    | Split Learning on FPGAs| Hannah Kathleen Whisnant, Praneeth Vepakomma, Richard Younger, (United States Military Academy at West Point, IDSS, TPP, MIT Lincoln Lab, MIT)
-|4:05 - 4:10 PM    |Short Break
-|4:10 - 5:30 PM    | Hands-on training workshop-Code your SL| Abhishek Singh, Ayush Chopra, Praneeth Vepakomma (MIT)
-|5:30 - 6:30 PM    | Closing remarks & Discussion/Social
+|2:00 - 2:15 PM    |SplitEasy: A Practical Approach for Training ML models on Mobile Devices in a split second| Kamalesh Palanisamy (Undergrad), Vivek Khimani, Moin Hussain Moti, Dimitris Chatzopoulos (NIT Trichy, Drexel University, The Hong Kong University of Science and Technology-HKUST)
+|2:15 - 2:30 PM    |End-to-End Evaluation of Federated Learning and Split Learning for Internet of Things| Yansong Gao, Minki Kim, Sharif Abuadbba, Yeonjae Kim, Chandra Thapa, Kyuyeon Kim, Seyit A. Camtepe, Hyoungshick Kim, Surya Nepal, (CSIRO, DATA61, Sungkyunkwan University)
+|2:30 - 2:45 PM    | Label Leakage and Protection in Two-party Split Learning| Oscar Li, Jiankai Sun, Weihao Gao, Hongyi Zhang, Xin Yang, Junyuan Xie, Chong Wang (CMU, ByteDance Inc, University of Washington)
+|2:45 - 3:00 PM    | NOPEEK: Information Leakage Reduction to Share Activations in Distributed Deep Learning| Praneeth Vepakomma, Abhishek Singh, Emily Zhang, Otkrist Gupta, Ramesh Raskar (MIT) 
+|3:00 - 3:15 PM    | Coffee Break
+|3:15 - 3:30 PM    | Split Learning for medical imaging: Multicenter deep learning without sharing patient data| Maarten G. Poirot, Praneeth Vepakomma, Ken Chang, Jayashree Kalpathy-Cramer, Rajiv Gupta, Ramesh Raskar (MGH/MIT/Twente/BWH)
+|3:30 - 3:45 PM    | Distributed Heteromodal Split Learning for Vision Aided mmWave Received Power Prediction| Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu)
+|3:45 - 4:00 PM    | Split Learning on FPGAs| Hannah Kathleen Whisnant, Praneeth Vepakomma, Richard Younger, (United States Military Academy at West Point, IDSS, TPP, MIT Lincoln Lab, MIT)
+|4:00 - 4:15 PM    | DeepObfuscator: Adversarial training framework for privacy-preserving image classification| Ang Li, Jiayi Guo, Huanrui Yang, Yiran Chen (Duke University, Tsinghua University)
+|4:15 - 5:30 PM    | Hands-on training workshop-Code your SL| Abhishek Singh, Ayush Chopra, Praneeth Vepakomma (MIT)
+|5:30 - 6:00 PM    | Closing remarks & Discussion/Social
 
 ## Important Information
 
