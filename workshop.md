@@ -40,8 +40,13 @@ It is therefore important to build an organic community for this research area, 
 |5:30 - 6:30 PM    | Closing remarks & Discussion/Social
 
 ## Important Information
-When: March 1, 2021
-Where: Virtual!
-Questions? Email: vepakom@mit.edu (with subject: SL Workshop/Query)
-Workshop Organizers - Praneeth Vepakomma, Abhishek Singh, and Ramesh Raskar.
+
+### When: March 1, 2021
+
+### Where: Virtual!
+
+### Questions? Email: vepakom@mit.edu (with subject: SL Workshop/Query)
+
+### Workshop Organizers - Praneeth Vepakomma, Abhishek Singh, and Ramesh Raskar.
+
 
