@@ -16,8 +16,15 @@
 |11:50 - 12:05 AM    | Interpretable Complex-Valued Neural Networks for Privacy Protection | Liyao Xianga , Hao Zhanga , Haotian Mab , Yifan Zhanga , Jie Rena , and Quanshi Zhanga, (Shanghai Jiao Tong University, South China University of Technology) 
 |12:05 - 12:20 AM    |DISCO: Dynamic and Invariant Sensitive Channel Obfuscation| Abhishek Singh, Ayush Chopra, Vivek Sharma, Ethan Z. Garza, Emily Zhang, Praneeth Vepakomma, Ramesh Raskar (MIT, Harvard Medical School)
 |12:20 - 12:35 AM    |A Low Complexity Decentralized Neural Net with Centralized Equivalence using Layer-wise Learning| Xinyue Liang, Alireza M. Javid, Mikael Skoglund, Saikat Chatterjee, (KTH)
-|12:35 - 1:30 PM    |Lunch Break 
-|1:30 - 1:45 PM    |A Low Complexity Decentralized Neural Net with Centralized Equivalence using Layer-wise Learning| Xinyue Liang, Alireza M. Javid, Mikael Skoglund, Saikat Chatterjee, (KTH)
+|12:35 - 1:30 PM    |Lunch Break  
+|1:30 - 1:45 PM    |Divide and Conquer: Leveraging Intermediate Feature Representations for Quantized Training of Neural Networks| Ahmed T. Elthakeb, Prannoy Pilligundla, Alex Cloninger, Hadi Esmaeilzadeh (UC-San Diego)
+|1:45 - 2:00 PM    |Distributed Min–Max Learning Scheme for Neural Networks With Applications to High-Dimensional Classification| Krishnan Raghavan, Shweta Garg, Sarangapani Jagannathan and V. A. Samaranayake (Missouri S&T)
+|2:00 - 2:15 PM    |Distributed Heteromodal Split Learning for Vision Aided mmWave Received Power Prediction| Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu)
+|2:15 - 2:30 PM    |Split learning for vertically partitioned data| Iker Ceballos, Vivek Sharma, Eduardo Mugica, Abhishek Singh, Praneeth Vepakomma, Ramesh Raskar (Acuratio/MIT)
+|2:30 - 2:45 PM    |End-to-End Evaluation of Federated Learning and Split Learning for Internet of Things| Yansong Gao, Minki Kim, Sharif Abuadbba, Yeonjae Kim, Chandra Thapa, Kyuyeon Kim, Seyit A. Camtepe, Hyoungshick Kim, Surya Nepal, CSIRO (DATA61), Sungkyunkwan University.
+
+
+
 
 
 
