@@ -1,7 +1,9 @@
 # Workshop on Split Learning for Distributed Machine Learning (SLDML'21) 
 ### March 1, 2021 10:00 AM EST (MIT, Virtual)
 <p align="center"><a href=""><img src="https://splitlearning.github.io/diab1.png" height="320" width="600"></a></p>
- 
+
+Overview: Friction in data sharing and resource constraints are a large challenge for large scale machine learning. Recently techniques such as Federated Learning and Split Learning have provided a suite of resource efficient mechanisms for distributed machine learning. The focus of this workshop is to disseminate a lively set of research works around split learning and a sampling of other variants of distributed machine learning that are of great relevance.
+
 ## Workshop Program 
 
 | Time (EST)            |    Title         |    Speakers         |
@@ -29,4 +31,4 @@
 |3:40 - 3:55 PM    | SplitEasy: A Practical Approach for Training ML models on Mobile Devices in a split second| Kamalesh Palanisamy (Undergrad), Vivek Khimani, Moin Hussain Moti, Dimitris Chatzopoulos (NIT Trichy, Drexel University, The Hong Kong University of Science and Technology-HKUST)
 |3:55 - 4:10 PM    | Split Learning on FPGAs| Hannah Kathleen Whisnant, Praneeth Vepakomma, Richard Younger, (United States Military Academy at West Point, IDSS, TPP, MIT Lincoln Lab, MIT)
 |4:10 - 5:30 PM    | Hands-on training workshop-Code your SL| Abhishek Singh, Ayush Chopra, Praneeth Vepakomma (MIT)
-|5:30 - 6:00 PM    | Closing remarks & Coffee Table Discussions
+|5:30 - 6:00 PM    | Closing remarks & Discussions 
