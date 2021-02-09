@@ -36,7 +36,7 @@ It is therefore important to build an organic community for this research area, 
 |3:45 - 4:00 PM    | Split Learning on FPGAs| Hannah Kathleen Whisnant, Praneeth Vepakomma, Richard Younger, (United States Military Academy at West Point, IDSS, TPP, MIT Lincoln Lab, MIT)
 |4:00 - 4:15 PM    | DeepObfuscator: Adversarial training framework for privacy-preserving image classification| Ang Li, Jiayi Guo, Huanrui Yang, Yiran Chen (Duke University, Tsinghua University)
 |4:15 - 5:30 PM    | Hands-on training workshop-Code your SL| Abhishek Singh, Ayush Chopra, Praneeth Vepakomma (MIT)
-|5:30 - 6:00 PM    | Closing remarks & Discussion+Social
+|5:30 - 6:30 PM    | Closing remarks & Discussion + Social
 
 ## Important Information
 
