@@ -3,6 +3,7 @@
 <p align="center"><a href=""><img src="https://splitlearning.github.io/diab1.png" height="320" width="600"></a></p>
  
 ## Workshop Program 
+
 | Time (EST)            |    Title         |    Speakers         |
 | ----------------    | -------------    | -------------       |
 | 10:00 - 10:20 AM    | Opening Remarks  | Ramesh Raskar, Praneeth Vepakomma (MIT)  |
