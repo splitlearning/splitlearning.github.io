@@ -37,5 +37,11 @@ It is therefore important to build an organic community for this research area, 
 |3:50 - 4:05 PM    | Split Learning on FPGAs| Hannah Kathleen Whisnant, Praneeth Vepakomma, Richard Younger, (United States Military Academy at West Point, IDSS, TPP, MIT Lincoln Lab, MIT)
 |4:05 - 4:10 PM    |Short Break
 |4:10 - 5:30 PM    | Hands-on training workshop-Code your SL| Abhishek Singh, Ayush Chopra, Praneeth Vepakomma (MIT)
-|5:30 - 5:45 PM    | Closing remarks
-|5:45 - 6:30 PM    | Discussion & Social
+|5:30 - 6:30 PM    | Closing remarks & Discussion/Social
+
+## Important Information
+When: March 1, 2021
+Where: Virtual!
+Questions? Email: vepakom@mit.edu (with subject: SL Workshop/Query)
+Workshop Organizers - Praneeth Vepakomma, Abhishek Singh, and Ramesh Raskar.
+
