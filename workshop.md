@@ -19,8 +19,8 @@
 |12:35 - 1:30 PM    |Lunch Break  
 |1:30 - 1:45 PM    |Divide and Conquer: Leveraging Intermediate Feature Representations for Quantized Training of Neural Networks| Ahmed T. Elthakeb, Prannoy Pilligundla, Alex Cloninger, Hadi Esmaeilzadeh (UC-San Diego)
 |1:45 - 2:00 PM    |Distributed Min–Max Learning Scheme for Neural Networks With Applications to High-Dimensional Classification| Krishnan Raghavan, Shweta Garg, Sarangapani Jagannathan and V. A. Samaranayake (Missouri S&T)
-|2:00 - 2:15 PM    |Distributed Heteromodal Split Learning for Vision Aided mmWave Received Power Prediction| Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu)
-|2:15 - 2:30 PM    |Split learning for vertically partitioned data| Iker Ceballos, Vivek Sharma, Eduardo Mugica, Abhishek Singh, Praneeth Vepakomma, Ramesh Raskar (Acuratio/MIT)
+|2:00 - 2:15 PM    |Split learning for vertically partitioned data| Iker Ceballos, Vivek Sharma, Eduardo Mugica, Abhishek Singh, Praneeth Vepakomma, Ramesh Raskar (Acuratio/MIT)
+|2:15 - 2:30 PM    |Distributed Heteromodal Split Learning for Vision Aided mmWave Received Power Prediction| Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu)
 |2:30 - 2:45 PM    |End-to-End Evaluation of Federated Learning and Split Learning for Internet of Things| Yansong Gao, Minki Kim, Sharif Abuadbba, Yeonjae Kim, Chandra Thapa, Kyuyeon Kim, Seyit A. Camtepe, Hyoungshick Kim, Surya Nepal, (CSIRO, DATA61, Sungkyunkwan University)
 |2:45 - 3:00 PM    | DeepObfuscator: Adversarial training framework for privacy-preserving image classification| Ang Li, Jiayi Guo, Huanrui Yang, Yiran Chen (Duke University, Tsinghua University)
 |3:00 - 3:15 PM    | NOPEEK: Information Leakage Reduction to Share Activations in Distributed Deep Learning| Praneeth Vepakomma, Abhishek Singh, Emily Zhang, Otkrist Gupta, Ramesh Raskar (MIT) 
