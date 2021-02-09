@@ -3,7 +3,9 @@
 <p align="center"><a href=""><img src="https://splitlearning.github.io/diab1.png" height="320" width="600"></a></p>
 
 ### Overview: 
-Friction in data sharing and restrictive resource constraints pose to be a great challenge for large scale machine learning. Recently techniques such as Federated Learning and Split Learning have provided a suite of resource efficient mechanisms for distributed machine learning. The focus of this workshop is to disseminate a lively set of research works around split learning and a sampling of other variants that are of great relevance to this paradigm. These topics are of increasingly large commercial, academic and policy interest. It is therefore important to build an organic community for this research area, where collaborating researchers share empirical/theoretical insights, code, data, benchmarks and training pipelines in order to advance distributed machine learning.
+Friction in data sharing and restrictive resource constraints pose to be a great challenge for large scale machine learning. Recently techniques such as Federated Learning and Split Learning have provided a suite of resource efficient mechanisms for distributed machine learning. The focus of this workshop is to disseminate a lively set of research works around split learning and a sampling of other variants that are of great relevance to this paradigm. These topics are of increasingly large commercial, academic and policy interest. 
+
+It is therefore important to build an organic community for this research area, where collaborating researchers share empirical/theoretical insights, code, data, benchmarks and training pipelines in order to advance distributed machine learning. In addition to disseminating recent advances, we plan to identify and document open problems and challenges in split learning and its variants.
 
 ## Workshop Program 
 
