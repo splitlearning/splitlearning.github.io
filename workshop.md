@@ -24,7 +24,9 @@
 |2:30 - 2:45 PM    |End-to-End Evaluation of Federated Learning and Split Learning for Internet of Things| Yansong Gao, Minki Kim, Sharif Abuadbba, Yeonjae Kim, Chandra Thapa, Kyuyeon Kim, Seyit A. Camtepe, Hyoungshick Kim, Surya Nepal, (CSIRO, DATA61, Sungkyunkwan University)
 |2:45 - 3:00 PM    | DeepObfuscator: Adversarial training framework for privacy-preserving image classification| Ang Li, Jiayi Guo, Huanrui Yang, Yiran Chen (Duke University, Tsinghua University)
 |3:00 - 3:15 PM    | NOPEEK: Information Leakage Reduction to Share Activations in Distributed Deep Learning| Praneeth Vepakomma, Abhishek Singh, Emily Zhang, Otkrist Gupta, Ramesh Raskar (MIT) 
-|3:15 - 3:30 PM    | Split Learning for medical imaging: Multicenter deep learning without sharing patient data| Maarten G. Poirot, Praneeth Vepakomma, Ken Chang, Jayashree Kalpathy-Cramer, Rajiv Gupta, Ramesh Raskar (MGH/MIT/Twente/BWH)
-|3:30 - 3:45 PM    | SplitEasy: A Practical Approach for Training ML models on Mobile Devices in a split second| Kamalesh Palanisamy (Undergrad), Vivek Khimani, Moin Hussain Moti, Dimitris Chatzopoulos (NIT Trichy, Drexel University, The Hong Kong University of Science and Technology-HKUST)
-|3:45 - 4:00 PM    | Split Learning on FPGAs| Hannah Kathleen Whisnant, Praneeth Vepakomma, Richard Younger, (United States Military Academy at West Point, IDSS, TPP, MIT Lincoln Lab, MIT)
-|4:00 - 5:30 PM    | Hands-on training workshop-Code your SL| Abhishek Singh, Ayush Chopra, Praneeth Vepakomma (MIT)
+|3:15 - 3:25 PM    | Coffee Break
+|3:25 - 3:40 PM    | Split Learning for medical imaging: Multicenter deep learning without sharing patient data| Maarten G. Poirot, Praneeth Vepakomma, Ken Chang, Jayashree Kalpathy-Cramer, Rajiv Gupta, Ramesh Raskar (MGH/MIT/Twente/BWH)
+|3:40 - 3:55 PM    | SplitEasy: A Practical Approach for Training ML models on Mobile Devices in a split second| Kamalesh Palanisamy (Undergrad), Vivek Khimani, Moin Hussain Moti, Dimitris Chatzopoulos (NIT Trichy, Drexel University, The Hong Kong University of Science and Technology-HKUST)
+|3:55 - 4:10 PM    | Split Learning on FPGAs| Hannah Kathleen Whisnant, Praneeth Vepakomma, Richard Younger, (United States Military Academy at West Point, IDSS, TPP, MIT Lincoln Lab, MIT)
+|4:10 - 5:30 PM    | Hands-on training workshop-Code your SL| Abhishek Singh, Ayush Chopra, Praneeth Vepakomma (MIT)
+|5:30 - 6:00 PM    | Closing remarks & Coffee Table Discussions
