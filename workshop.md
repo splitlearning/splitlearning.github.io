@@ -28,14 +28,14 @@ It is therefore important to build an organic community for this research area, 
 |3:00 - 3:15 PM    |A Low Complexity Decentralized Neural Net with Centralized Equivalence using Layer-wise Learning| Xinyue Liang, Alireza M. Javid, Mikael Skoglund, Saikat Chatterjee, (KTH)
 |3:15 - 3:30 PM    | Coffee Break
 |3:30 - 4:15 PM    | Hands-on training workshop-Code your SL- Module 1| Abhishek Singh, Ayush Chopra, Praneeth Vepakomma (MIT)
-|4:15 - 5:00 PM    | Hands-on training workshop-Code your SL-Module 2| Abhishek Singh, Ayush Chopra, Praneeth Vepakomma (MIT)|
+|4:15 - 5:00 PM    | Hands-on training workshop-Code your SL-Module 2| Abhishek Singh, Ayush Chopra, Praneeth Vepakomma (MIT)
 
 
 ### Day 2 - March 5
 
 | Time (EST)            |    Title         |    Speakers         |
 | ----------------    | -------------    | -------------       |
-|10:00 - 10:30 AM    | Keynote talk 3  | IBM Research  |
+| 10:00 - 10:30 AM    | Keynote talk 3  | IBM Research  |
 |10:30 AM - 10:45 AM    |Label Leakage and Protection in Two-party Split Learning (tentative) | Oscar Li, Jiankai Sun, Weihao Gao, Hongyi Zhang, Xin Yang, Junyuan Xie, Chong Wang (CMU, ByteDance Inc, University of Washington)
 |10:45 - 11:00 AM    |Distributed Min–Max Learning Scheme for Neural Networks With Applications to High-Dimensional Classification| Krishnan Raghavan, Shweta Garg, Sarangapani Jagannathan and V. A. Samaranayake (Missouri S&T)
 |11:00 - 11:15 AM    | NOPEEK: Information Leakage Reduction to Share Activations in Distributed Deep Learning| Praneeth Vepakomma, Abhishek Singh, Emily Zhang, Otkrist Gupta, Ramesh Raskar (MIT)
