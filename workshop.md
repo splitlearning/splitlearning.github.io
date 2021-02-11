@@ -27,8 +27,8 @@ It is therefore important to build an organic community for this research area, 
 |2:45 - 3:00 PM    |DISCO: Dynamic and Invariant Sensitive Channel Obfuscation| Abhishek Singh, Ayush Chopra, Vivek Sharma, Ethan Z. Garza, Emily Zhang, Praneeth Vepakomma, Ramesh Raskar (MIT, Harvard Medical School)
 |3:00 - 3:15 PM    |A Low Complexity Decentralized Neural Net with Centralized Equivalence using Layer-wise Learning| Xinyue Liang, Alireza M. Javid, Mikael Skoglund, Saikat Chatterjee, (KTH)
 |3:15 - 3:30 PM    | Coffee Break
-|3:30 - 4:15 PM    | Hands-on training workshop-Code your SL- Module 1| Abhishek Singh, Ayush Chopra, Praneeth Vepakomma (MIT)
-|4:15 - 5:00 PM    | Hands-on training workshop-Code your SL-Module 2| Abhishek Singh, Ayush Chopra, Praneeth Vepakomma (MIT)
+|3:30 - 4:15 PM    | Hands-on training workshop-Code your SL- Module 1| Abhishek Singh, Praneeth Vepakomma, Ayush Chopra  (MIT)
+|4:15 - 5:00 PM    | Hands-on training workshop-Code your SL-Module 2| Abhishek Singh, Praneeth Vepakomma, Ayush Chopra (MIT)
 
 
 
@@ -38,15 +38,15 @@ It is therefore important to build an organic community for this research area, 
 
 | Time (EST)            |    Title         |    Speakers         |
 | ----------------    | -------------    | -------------       |
-| 10:00 - 10:20 AM    | Keynote talk 3   | IBM Research  |
-| 10:20 - 10:50 AM    |Label Leakage and Protection in Two-party Split Learning (tentative) | Oscar Li, Jiankai Sun, Weihao Gao, Hongyi Zhang, Xin Yang, Junyuan Xie, Chong Wang (CMU, ByteDance Inc, University of Washington)
-| 10:50 - 11:05 AM    |Distributed Min–Max Learning Scheme for Neural Networks With Applications to High-Dimensional Classification| Krishnan Raghavan, Shweta Garg, Sarangapani Jagannathan and V. A. Samaranayake (Missouri S&T)
-| 11:05 - 11:20 AM    | Communication-Efficient Multimodal Split Learning for mmWave Received Power Prediction | Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu) 
-|11:20 - 11:35 AM     | NOPEEK: Information Leakage Reduction to Share Activations in Distributed Deep Learning| Praneeth Vepakomma, Abhishek Singh, Emily Zhang, Otkrist Gupta, Ramesh Raskar (MIT)
-|11:35 - 11:50 AM    | Coffee Break
-|11:50 - 12:05 AM    |Divide and Conquer: Leveraging Intermediate Feature Representations for Quantized Training of Neural Networks| Ahmed T. Elthakeb, Prannoy Pilligundla, Alex Cloninger, Hadi Esmaeilzadeh (UC-San Diego)
-|11:50 - 12:05 AM    |SplitEasy: A Practical Approach for Training ML models on Mobile Devices in a split second| Kamalesh Palanisamy (Undergrad), Vivek Khimani, Moin Hussain Moti, Dimitris Chatzopoulos (NIT Trichy, Drexel University, The Hong Kong University of Science and Technology-HKUST)
-|12:00 - 1:30 PM    |Lunch Break
+| 10:00 - 10:30 AM    | Keynote talk 3   | IBM Research  |
+| 10:30 - 10:45 AM    |Label Leakage and Protection in Two-party Split Learning (tentative) | Oscar Li, Jiankai Sun, Weihao Gao, Hongyi Zhang, Xin Yang, Junyuan Xie, Chong Wang (CMU, ByteDance Inc, University of Washington)
+| 10:45 - 11:00 AM    |Distributed Min–Max Learning Scheme for Neural Networks With Applications to High-Dimensional Classification| Krishnan Raghavan, Shweta Garg, Sarangapani Jagannathan and V. A. Samaranayake (Missouri S&T)
+| 11:00 - 11:15 AM    | Communication-Efficient Multimodal Split Learning for mmWave Received Power Prediction | Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu) 
+|11:15 - 11:30 AM     | NOPEEK: Information Leakage Reduction to Share Activations in Distributed Deep Learning| Praneeth Vepakomma, Abhishek Singh, Emily Zhang, Otkrist Gupta, Ramesh Raskar (MIT)
+|11:30 - 11:45 AM    | Coffee Break
+|11:45 - 12:00 PM    |Divide and Conquer: Leveraging Intermediate Feature Representations for Quantized Training of Neural Networks| Ahmed T. Elthakeb, Prannoy Pilligundla, Alex Cloninger, Hadi Esmaeilzadeh (UC-San Diego)
+|12:00 - 12:15 PM    |SplitEasy: A Practical Approach for Training ML models on Mobile Devices in a split second| Kamalesh Palanisamy (Undergrad), Vivek Khimani, Moin Hussain Moti, Dimitris Chatzopoulos (NIT Trichy, Drexel University, The Hong Kong University of Science and Technology-HKUST)
+|12:15 - 1:30 PM    |Lunch Break
 | 1:30 - 2:00 PM    | Keynote talk 4  | Facebook AI  
 | 2:00 - 2:15 PM    | Split learning for vertically partitioned data | Iker Ceballos, Vivek Sharma, Eduardo Mugica, Abhishek Singh, Praneeth Vepakomma, Ramesh Raskar (Acuratio/MIT)
 |2:15 - 2:30 PM    | Distributed Heteromodal Split Learning for Vision Aided mmWave Received Power Prediction| Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu)
