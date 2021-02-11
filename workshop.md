@@ -67,6 +67,6 @@ It is therefore important to build an organic community for this research area, 
 
 ### Questions? Email: vepakom@mit.edu (with subject: SL Workshop/Query)
 
-Workshop Organizers - Praneeth Vepakomma, Abhishek Singh, Vitor Pamplona, Otkrist Gupta, Ayush Chopra, Emily Zhang, Yaateh Richardson, Julia Balla, and Ramesh Raskar.
+Workshop Organizers - Praneeth Vepakomma, Abhishek Singh, Vitor Pamplona, Otkrist Gupta, Ayush Chopra, Emily Zhang, Yaateh Richardson, Subha Nawer Pushpita, Julia Balla, and Ramesh Raskar.
 
 
