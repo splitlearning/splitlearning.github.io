@@ -49,11 +49,11 @@ It is therefore important to build an organic community for this research area, 
 |12:00 - 1:30 PM    |Lunch Break
 | 1:30 - 2:00 PM    | Keynote talk 4  | Facebook AI  
 | 2:00 - 2:15 PM    | Split learning for vertically partitioned data | Iker Ceballos, Vivek Sharma, Eduardo Mugica, Abhishek Singh, Praneeth Vepakomma, Ramesh Raskar (Acuratio/MIT)
-
-
-
-
 |2:15 - 2:30 PM    | Distributed Heteromodal Split Learning for Vision Aided mmWave Received Power Prediction| Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu)
+
+
+
+
 |2:30 - 2:45 PM    | Split Learning for medical imaging: Multicenter deep learning without sharing patient data| Maarten G. Poirot, Praneeth Vepakomma, Ken Chang, Jayashree Kalpathy-Cramer, Rajiv Gupta, Ramesh Raskar (MGH/MIT/Twente/BWH)
 |2:45 - 3:00 PM    | DeepObfuscator: Adversarial training framework for privacy-preserving image classification| Ang Li, Jiayi Guo, Huanrui Yang, Yiran Chen (Duke University, Tsinghua University)
 |3:00 - 3:15 PM    | Coffee Break
