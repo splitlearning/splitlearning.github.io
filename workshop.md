@@ -22,7 +22,7 @@ It is therefore important to build an organic community for this research area, 
 |12:05 - 1:30 PM    |Lunch Break
 | 1:30 - 2:00 PM    | Keynote talk 2  | Qualcomm  |
 |2:00 - 2:15 PM    |Shredder: Learning Noise to Protect Privacy with Partial DNN Inference on the Edge| Fatemehsadat Mireshghallah, Mohammadkazem Taram, Prakash Ramrakhyani, Ali Jalali, Dean Tullsen, Hadi Esmaeilzadeh (UC-San Diego, ARM Inc, Amazon)
-|2:15 - 2:30 PM    | FedSL: Federated Split Learning on Distributed Sequential Data in Recurrent Neural Networks |  Ali Abedi and Sheroz S. Khan (UHN Toronto rehabilitation institute, University of Toronto, University Health Network-KITE) 
+|2:15 - 2:30 PM    | FedSL: Federated Split Learning on Distributed Sequential Data in Recurrent Neural Networks |  Ali Abedi and Sheroz S. Khan (KITE, University Health Network, Canada. University of Toronto Canada.) 
 |2:30 - 2:45 PM    | Interpretable Complex-Valued Neural Networks for Privacy Protection | Liyao Xianga , Hao Zhanga , Haotian Mab , Yifan Zhanga , Jie Rena , and Quanshi Zhanga, (Shanghai Jiao Tong University, South China University of Technology) 
 |2:45 - 3:00 PM    |DISCO: Dynamic and Invariant Sensitive Channel Obfuscation| Abhishek Singh, Ayush Chopra, Vivek Sharma, Ethan Z. Garza, Emily Zhang, Praneeth Vepakomma, Ramesh Raskar (MIT, Harvard Medical School)
 |3:00 - 3:15 PM    |A Low Complexity Decentralized Neural Net with Centralized Equivalence using Layer-wise Learning| Xinyue Liang, Alireza M. Javid, Mikael Skoglund, Saikat Chatterjee, (KTH)
