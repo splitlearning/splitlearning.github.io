@@ -1,0 +1,221 @@
+<!DOCTYPE HTML>
+<!--
+	Hyperspace by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Split Learning Project: MIT Media Lab</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Sidebar -->
+			<section id="sidebar">
+				<div class="inner">
+					<nav>
+						<ul>
+							<li><a href="#intro">Home</a></li>
+							<li><a href="#one">Programs</a></li>
+							<li><a href="#videos">Videos</a></li>
+							<li><a href="#faq">FAQ</a></li>
+              				<li><a href="#team">Team</a></li>
+							<li><a href="#references">References</a></li>
+							<li><a href="#contact">Contact</a></li>
+							<li><a href="blog.html">Blog</a></li>
+						</ul>
+					</nav>
+				</div>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+				<!-- Intro -->
+					<section id="intro" class="wrapper style1 fullscreen fade-up">
+						<div class="inner">
+							<h1>MIT Media Lab's Split Learning: Distributed and collaborative learning</h1>
+							<p>Distributed deep learning and inference without sharing raw data</p>
+							<ul class="actions">
+								<li><a href="#one" class="button scrolly">Learn more</a></li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- One -->
+					<section id="one" class="wrapper style2 spotlights">
+						<section>
+							<a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>MIT Alliance for Distributed and Private Machine Learning</h2>
+									<p><strong>Abstract:</strong> Friction in data sharing is a large challenge for large scale machine learning. Recently techniques such as Federated Learning, Differential Privacy and Split Learning aim to address siloed and unstructured data, privacy and regulation of data sharing and incentive models for data transparent ecosystems. Split learning is a new technique developed at the MIT Media Lab’s Camera Culture group that allows for participating entities to train machine learning models without sharing any raw data.</p>
+									<ul class="actions">
+										<li><a href="alliance.html" class="button">Learn more</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a href="#" class="image"><img src="images/pic02.jpg" alt="" data-position="top center" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>SafePaths</h2>
+									<p>A global community-led movement SafePaths develops free, open-source, privacy-by-design tools for residents, public health officials, and larger communities to flatten the curve of COVID-19, reduce fear, and prevent a surveillance-state response to the pandemic.</p>
+									<ul class="actions">
+										<li><a href="https://pathcheck.org" class="button">Learn more</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>Split Learning and Inference</h2>
+									<p>Split learning removes barriers for collaboration in a whole range of sectors including healthcare, finance, security, logistics, governance, operations and manufacturing.</p>
+									<ul class="actions">
+										<li><a href="inference.html" class="button">Learn more</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+						<section>
+							<a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="25% 25%" /></a>
+							<div class="content">
+								<div class="inner">
+									<h2>Events</h2>
+									<p>Check out some of our recent talks and events.</p>
+									<ul class="actions">
+										<li><a href="events.html" class="button">Learn more</a></li>
+									</ul>
+								</div>
+							</div>
+						</section>
+					</section>
+
+				<!--  Videos -->
+					<section id="videos" class="wrapper style4-alt fade-up">
+						<div class="inner">
+							<h2>Videos: Privacy Aware AI, Split Learning at World Economic Forum and Niti Aayog</h2>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/GiGlHuWOwME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/7jWXaABY81I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/hHV2WR7nCQk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/x9TCYuMUnco" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/4PdBM76D5JY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<p><span style="font-weight: bold;">Key technical idea:</span> In the simplest of configurations of split learning, each client (for example, radiology center) trains a partial deep network up to a specific layer known as the cut layer. The outputs at the cut layer are sent to another entity (server/another client) which completes the rest of the training without looking at raw data from any client that holds the raw data. This completes a round of forward propagation without sharing raw data. The gradients are now back propagated again from its last layer until the cut layer in a similar fashion. The gradients at the cut layer (and only these gradients) are sent back to radiology client centers. The rest of back propagation is now completed at the radiology client centers. This process is continued until the distributed split learning network is trained without looking at each others raw data.</p>
+						</div>
+					</section>
+				
+				<!-- FAQ -->
+				<section id="faq" class="wrapper style4 fade-up">
+					<div class="inner">
+						<h2>Frequently Asked Questions</h2>
+						<blockquote>How does split learning work and what is new in our approach?</blockquote>
+						<p>Split learning attains high resource efficiency for distributed deep learning in comparison to existing methods by splitting the models architecture across distributed entities. It only communicates activations and gradients just from the split layer unlike other popular methods that share weights/gradients from all the layers. Split learning requires no raw data sharing; either of labels or features.</p>
+						
+						<blockquote>How is raw data protected and who can get positively impacted?</blockquote>
+						<p>Split learning requires absolutely no raw data sharing. Sectors like healthcare, finance, security, surveillance and others where data sharing is prohibited will benefit from our approach for training distributed deep learning models. Another modality of split learning called NoPeek SplitNN also drastically reduces leakage due to any communicated activations by reducing their distance correlation with raw data while maintaining model performance via categorical cross-entropy.</p>
+						
+						<blockquote>How long will it take to transition from laboratory setting to actual deployments between cooperating entities?</blockquote>
+						<p>The approach is easily deployable for inter and intra entity or organizational collaboration and is highly versatile in terms of possible network topologies. Due to its high resource efficiency in terms of computations, memory, communication bandwidth it is also naturally suitable for distributed learning where the clients are pervasive and ubiquitous edge devices like mobile phones or IOT devices as well as across larger devices and organizations.</p>
+
+					</div>
+				</section>
+				
+				<!-- TEAM -->
+				<section id="team" class="wrapper style2-alt fade-up">
+					<div class="inner">
+						<h2>Team</h2>
+						<p><u>Main Collaborators:</u>
+						<br>Ramesh Raskar, Associate Professor, MIT Media Lab; Principal Investigator
+						<br>Praneeth Vepakomma, MIT
+						<br>Abhishek Singh, MIT
+						<br>Ayush Chopra, MIT
+						<br>Otkrist Gupta, MIT Affiliate
+						<br>Vitor Pamplona, MIT Affiliate
+						<br>Kevin Pho, MIT
+						<br>
+						<br><u>OpenMined Collaborators:</u>
+						<br>Andrew Trask, Adam J. Hall, Théo Ryffel
+						<br>
+						<br><u>Website Team:</u>
+						<br>Saurish Srivastava
+						<br>Sheshank Shankar
+						<br>Rohan Iyer
+						</p>
+						<h3>News articles:</h3>
+						<p>1. <a href="https://www.technologyreview.com/2018/12/11/138719/a-new-ai-method-can-train-on-medical-records-without-revealing-patient-data/" target="_blank">A new AI method can train on medical records without revealing patient data</a>
+						<br>2. <a href="https://www.technologyreview.com/2019/03/11/136710/a-little-known-ai-method-can-train-on-your-health-data-without-threatening-your-privacy/" target="_blank">A little-known AI method can train on your health data without threatening your privacy</a>
+						<br>3. <a href="https://go.technologyreview.com/the-privacy-preserving-machine-learning-technique-that-will-transform-healthcare" target="_blank">The Algorithm Newsletter: The privacy-preserving AI technique that will transform healthcare</a>
+						<br>4. <a href="https://www.lesechos.fr/idees-debats/cercle/opinion-secret-medical-intelligence-artificielle-et-rgpd-irreconciliables-pas-si-sur-999364" target="_blank">Les Echos: Medical secrecy, artificial intelligence and RGPD: irreconcilable? Not so sure…</a>
+						</p>
+					</div>
+				</section>
+
+				<!-- References -->
+				<section id="references" class="wrapper style3-alt fade-up">
+					<div class="inner">
+						<h2>References</h2>
+						<p><u>Splintering Papers:</u>
+						<br>1. Splintering with distributions: A stochastic decoy scheme for private computation, Praneeth Vepakomma, Julia Balla, Ramesh Raskar, (2020) <a href="https://github.com/vepakom/PrivacyDocuments/blob/master/Splintering.pdf">(PDF)</a>
+						<br>
+						<br><u>Split Learning Papers:</u>
+						<br>1. Distributed learning of deep neural network over multiple agents, Otkrist Gupta and Ramesh Raskar, In: Journal of Network and Computer Applications 116, (2018) <a href="https://www.sciencedirect.com/science/article/pii/S1084804518301590">(PDF)</a>
+						<br>2. NoPeek: Information leakage reduction to share activations in distributed deep learning, Praneeth Vepakomma, Otkrist Gupta, Abhimanyu Dubey, Ramesh Raskar, (2020) <a href="https://arxiv.org/abs/2008.09161">(PDF)</a>
+						<br>3. DISCO: Dynamic and Invariant Sensitive Channel Obfuscation, Abhishek Singh, Ayush Chopra, Vivek Sharma, Ethan Z. Garza, Emily Zhang, Praneeth Vepakomma, Ramesh Raskar (2020) <a href="https://github.com/splitlearning/splitlearning.github.io/blob/master/DISCO.pdf">(PDF)</a>
+						<br>4. FedML: A Research Library and Benchmark for Federated Machine Learning, (2020) <a href="https://arxiv.org/abs/2007.13518">(PDF)</a>
+						<br>5. Split learning for health: Distributed deep learning without sharing raw patient data, Praneeth Vepakomma, Otkrist Gupta, Tristan Swedish, Ramesh Raskar, Accepted to ICLR 2019 Workshop on AI for social good. (2018) <a href="https://arxiv.org/pdf/1812.00564.pdf">(PDF)</a>
+						<br>6. Detailed comparison of communication efficiency of split learning and federated learning, Abhishek Singh, Praneeth Vepakomma, Otkrist Gupta, Ramesh Raskar, (2019) <a href="https://arxiv.org/pdf/1909.09145.pdf">(PDF)</a>
+						<br>7. ExpertMatcher: Automating ML Model Selection for Users in Resource Constrained Countries, Vivek Sharma, Praneeth Vepakomma, Tristan Swedish, Ken Chang, Jayashree Kalpathy-Cramer, and Ramesh Raskar (2019) <a href="https://arxiv.org/pdf/1910.02312.pdf">(PDF)</a>
+						<br>8. Split Learning for collaborative deep learning in healthcare, Maarten G.Poirot, Praneeth Vepakomma, Ken Chang, Jayashree Kalpathy-Cramer, Rajiv Gupta, Ramesh Raskar (2019) 
+						<br>
+
+						<br><u>Survey Papers:</u>
+						<br>1. Advances and open problems in federated learning (with, 58 authors from 25 institutions!) (2019) <a href="https://arxiv.org/pdf/1912.04977.pdf">(PDF)</a>
+						<br>2. No Peek: A Survey of private distributed deep learning, Praneeth Vepakomma, Tristan Swedish, Ramesh Raskar, Otkrist Gupta, Abhimanyu Dubey, (2018) <a href="https://arxiv.org/pdf/1812.03288.pdf">(PDF)</a>
+						<br>3. A Review of Homomorphic Encryption Libraries for Secure Computation, Sai Sri Sathya, Praneeth Vepakomma, Ramesh Raskar, Ranjan Ramachandra, Santanu Bhattacharya, (2018) <a href="https://arxiv.org/pdf/1812.02428.pdf">(PDF)</a>
+						<br>
+						
+						<br><u>AutoML Papers:</u>
+						<br>1. Accelerating neural architecture search using performance prediction, Bowen Baker, Otkrist Gupta, Ramesh Raskar, Nikhil Naik, In: conference paper at ICLR, (2018) <a href="https://arxiv.org/pdf/1705.10823.pdf">(PDF)</a>
+						<br>2. Designing neural network architecture using reinforcement learning, Bowen Baker, Otkrist Gupta, Nikhil Naik & Ramesh Raskar, In: conference paper at ICLR, (2017) <a href="https://arxiv.org/pdf/1611.02167.pdf">(PDF)</a>
+						<br>
+
+						<br><u>Differentially Private Data Structures:</u>
+						<br>1. DAMS: Meta-estimation of private sketch data structures for differentially private COVID-19 contact tracing, Praneeth Vepakomma, Subha Nawer Pushpita, Ramesh Raskar, PPML-NeurIPS 2020, (2020) <a href="https://github.com/PrivateKit/PrivacyDocuments/blob/master/DAMS_Meta-estimation_of_private_sketch_data_structures_for_differentially_private_contact_tracing.pdf">(PDF)</a>
+						</p>
+					</div>
+				</section>
+
+				<!-- Contact -->
+					<section id="contact" class="wrapper style3 fade-up">
+						<div class="inner">
+							<h2>Contact</h2>
+							<p>Potential partner or want to connect with us? Please fill out this simple <a href="https://forms.gle/C7dX8ynRsre4xYdP8" target="_blank">form</a> to reach out!</p>
+						</div>
+					</section>
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer" class="wrapper style1-alt">
+				<div class="inner">
+					&copy; MIT Media Lab: Split Learning. All rights reserved.
+					<br>Design: <a href="http://html5up.net">HTML5 UP</a>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
