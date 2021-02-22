@@ -54,7 +54,7 @@ It is therefore important to build an organic community for this research area, 
 |2:30 - 2:45 PM    | Split Learning for medical imaging: Multicenter deep learning without sharing patient data| Maarten G. Poirot, Praneeth Vepakomma, Ken Chang, Jayashree Kalpathy-Cramer, Rajiv Gupta, Ramesh Raskar (MGH/MIT/Twente/BWH)
 |2:45 - 3:00 PM    | TIPRDC: Task-Independent Privacy-Respecting Data Crowdsourcing Framework for Deep Learning with Anonymized Intermediate Representations| Ang Li, Jiayi Guo, Huanrui Yang, Yiran Chen (Duke University, Tsinghua University)
 |3:00 - 3:15 PM    | Coffee Break
-|3:15 - 3:30 PM    | End-to-End Evaluation of Federated Learning and Split Learning for Internet of Things| Yansong Gao, Minki Kim, Sharif Abuadbba, Yeonjae Kim, Chandra Thapa, Kyuyeon Kim, Seyit A. Camtepe, Hyoungshick Kim, Surya Nepal, (CSIRO, DATA61, Sungkyunkwan University) 
+|3:15 - 3:30 PM    | SplitFed: Blending federated learning and split learning| Chandra Thapa, MAP Chamikara, and Seyit Camtepe (CSIRO Data61)
 |3:30 - 3:45 PM    | Split Learning on FPGAs| Hannah Kathleen Whisnant, Praneeth Vepakomma, Richard Younger, (United States Military Academy at West Point, IDSS, TPP, MIT Lincoln Lab, MIT)
 |3:45 - 4:30 PM    | Hands-on training workshop-Code your SL-Module 3| Abhishek Singh, Ayush Chopra, Praneeth Vepakomma (MIT)
 |4:30 - 5:15 PM    | Closing remarks & Discussion + Social
