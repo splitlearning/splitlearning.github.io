@@ -46,7 +46,7 @@ It is therefore important to build an organic community for this research area, 
 |11:15 - 11:30 AM     | NOPEEK: Information Leakage Reduction to Share Activations in Distributed Deep Learning| Praneeth Vepakomma, Abhishek Singh, Emily Zhang, Otkrist Gupta, Ramesh Raskar (MIT)
 |11:30 - 11:45 AM    | Coffee Break
 |11:45 - 12:00 PM    |Divide and Conquer: Leveraging Intermediate Feature Representations for Quantized Training of Neural Networks| Ahmed T. Elthakeb, Prannoy Pilligundla, Alex Cloninger, Hadi Esmaeilzadeh (UC-San Diego)
-|12:00 - 12:15 PM    |SplitEasy: A Practical Approach for Training ML models on Mobile Devices in a split second| Kamalesh Palanisamy (Undergrad), Vivek Khimani, Moin Hussain Moti, Dimitris Chatzopoulos (NIT Trichy, Drexel University, The Hong Kong University of Science and Technology-HKUST)
+|12:00 - 12:15 PM    |SplitEasy: A Practical Approach for Training ML models on Mobile Devices| Kamalesh Palanisamy (Undergrad), Vivek Khimani (Undergrad), Moin Hussain Moti, Dimitris Chatzopoulos (NIT Trichy, Drexel University, The Hong Kong University of Science and Technology-HKUST)
 |12:15 - 1:30 PM    |Lunch Break
 | 1:30 - 2:00 PM    | Keynote talk 4  | Facebook AI  
 | 2:00 - 2:15 PM    | Split learning for vertically partitioned data | Iker Ceballos, Vivek Sharma, Eduardo Mugica, Abhishek Singh, Praneeth Vepakomma, Ramesh Raskar (Acuratio/MIT)
