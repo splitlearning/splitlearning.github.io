@@ -15,7 +15,7 @@ It is therefore important to build an organic community for this research area, 
 | 10:00 - 10:20 AM    | Opening Remarks  | Ramesh Raskar, Praneeth Vepakomma (MIT)  |
 | 10:20 - 10:50 AM    | Keynote talk 1  | Google Research  |
 | 10:50 - 11:05 AM    | Parallel Training of Deep Networks with Local Updates    | Michael Laskin, Luke Metz, Seth Nabarrao, Mark Saroufim, Badreddine Noune, Carlo Luschi, Jascha Sohl-Dickstein, Pieter Abbeel, (UC- Berkeley, Google Research, Graphcore Research)
-| 11:05 - 11:20 AM    | Communication-Efficient Multimodal Split Learning for mmWave Received Power Prediction | Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu) 
+| 11:05 - 11:20 AM    | Distributed Heteromodal Split Learning for Vision Aided mmWave Received Power Prediction | Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu) 
 |11:20 - 11:35 AM    | Coffee Break 
 |11:35 - 11:50 AM    | Blind Learning: An efficient privacy-preserving approach for distributed learning| Gharib Gharibi, Praneeth Vepakomma (TripleBlind, MIT) 
 |11:50 - 12:05 AM    | Training Neural Networks Using Features Replay| Zhouyuan Huo, Bin Gu, Heng Huang (Google, MBZUAI, JD Finance America Corporation, University of Pittsburgh) 
