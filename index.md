@@ -100,28 +100,41 @@ Please fill this simple [form](https://forms.gle/C7dX8ynRsre4xYdP8 "form") to re
 
 ## References
 
-<b>Splintering Papers: </b>
-
-1.)Splintering with distributions: A stochastic decoy scheme for private computation, Praneeth Vepakomma, Julia Balla, Ramesh Raskar, [(PDF)](https://github.com/vepakom/PrivacyDocuments/blob/master/Splintering.pdf "Pdf") (2020)
-
 <b>Split Learning Papers: </b>
 
 1.) Distributed learning of deep neural network over multiple agents, Otkrist Gupta and Ramesh Raskar, In: Journal of Network and Computer Applications 116, [(PDF)](https://www.sciencedirect.com/science/article/pii/S1084804518301590 "Pdf") (2018)
 
-2.) NoPeek: Information leakage reduction to share activations in distributed deep learning, Praneeth Vepakomma, Otkrist Gupta, Abhimanyu Dubey, Ramesh Raskar,
+2.) Split learning for health: Distributed deep learning without sharing raw patient data, Praneeth Vepakomma, Otkrist Gupta, Tristan Swedish, Ramesh Raskar, Accepted to ICLR 2019 Workshop on AI for social good.[(PDF)](https://arxiv.org/pdf/1812.00564.pdf "Pdf") (2018)
+
+3.) FedML: A Research Library and Benchmark for Federated Machine Learning.(Baidu Best Paper Award @ NeurIPS-SpicyFL)[(PDF)](https://arxiv.org/abs/2007.13518 "Pdf") (2020)
+
+4.) DISCO: Dynamic and Invariant Sensitive Channel Obfuscation, Abhishek Singh, Ayush Chopra, Vivek Sharma, Ethan Z. Garza, Emily Zhang, Praneeth Vepakomma, Ramesh Raskar [(PDF)](https://github.com/splitlearning/splitlearning.github.io/blob/master/DISCO.pdf "Pdf")(2020)
+
+5.) NoPeek: Information leakage reduction to share activations in distributed deep learning, Praneeth Vepakomma, Otkrist Gupta, Abhimanyu Dubey, Ramesh Raskar,
 [(PDF)](https://arxiv.org/abs/2008.09161 "Pdf") (2020)
-
-3.) DISCO: Dynamic and Invariant Sensitive Channel Obfuscation, Abhishek Singh, Ayush Chopra, Vivek Sharma, Ethan Z. Garza, Emily Zhang, Praneeth Vepakomma, Ramesh Raskar [(PDF)](https://github.com/splitlearning/splitlearning.github.io/blob/master/DISCO.pdf "Pdf")(2020)
-
-4.) FedML: A Research Library and Benchmark for Federated Machine Learning.[(PDF)](https://arxiv.org/abs/2007.13518 "Pdf") (2020)
-
-5.) Split learning for health: Distributed deep learning without sharing raw patient data, Praneeth Vepakomma, Otkrist Gupta, Tristan Swedish, Ramesh Raskar, Accepted to ICLR 2019 Workshop on AI for social good.[(PDF)](https://arxiv.org/pdf/1812.00564.pdf "Pdf") (2018)
 
 6.) Detailed comparison of communication efficiency of split learning and federated learning, Abhishek Singh, Praneeth Vepakomma, Otkrist Gupta, Ramesh Raskar, [(PDF)](https://arxiv.org/pdf/1909.09145.pdf "Pdf") (2019)
 
 7.) ExpertMatcher: Automating ML Model Selection for Users in Resource Constrained Countries, Vivek Sharma, Praneeth Vepakomma, Tristan Swedish, Ken Chang, Jayashree Kalpathy-Cramer, and Ramesh Raskar [(PDF)](https://arxiv.org/pdf/1910.02312.pdf "Pdf") (2019)
 
 8.) Split Learning for collaborative deep learning in healthcare, Maarten G.Poirot, Praneeth Vepakomma, Ken Chang, Jayashree Kalpathy-Cramer, Rajiv Gupta, Ramesh Raskar (2019)
+
+<b>Differentially Privacy Papers: </b>
+
+1.)Differentially Private Supervised Manifold Learning with Applications like Private Image Retrieval, Praneeth Vepakomma, Julia Balla, Ramesh Raskar, [(PDF)](https://arxiv.org/pdf/2102.10802.pdf "Pdf") (2021)
+
+2.) DAMS: Meta-estimation of private sketch data structures for differentially private
+COVID-19 contact tracing, Praneeth Vepakomma, Subha Nawer Pushpita, Ramesh Raskar, PPML-NeurIPS 2020, [(PDF)](https://github.com/PrivateKit/PrivacyDocuments/blob/master/DAMS_Meta-estimation_of_private_sketch_data_structures_for_differentially_private_contact_tracing.pdf) (2020)
+
+<b>Splintering Papers: </b>
+
+1.)Splintering with distributions: A stochastic decoy scheme for private computation, Praneeth Vepakomma, Julia Balla, Ramesh Raskar, [(PDF)](https://github.com/vepakom/PrivacyDocuments/blob/master/Splintering.pdf "Pdf") (2020)
+
+<b>AutoML Papers: </b>
+
+1.) Accelerating neural architecture search using performance prediction, Bowen Baker, Otkrist Gupta, Ramesh Raskar, Nikhil Naik, In: conference paper at ICLR, [(PDF)](https://arxiv.org/pdf/1705.10823.pdf "Pdf") (2018)
+
+2.) Designing neural network architecture using reinforcement learning, Bowen Baker, Otkrist Gupta, Nikhil Naik & Ramesh Raskar, In: conference paper at ICLR, [(PDF)](https://arxiv.org/pdf/1611.02167.pdf "Pdf") (2017)
 
 <b>Survey Papers: </b>
 
@@ -131,18 +144,8 @@ Please fill this simple [form](https://forms.gle/C7dX8ynRsre4xYdP8 "form") to re
 
 3.) A Review of Homomorphic Encryption Libraries for Secure Computation, Sai Sri Sathya, Praneeth Vepakomma, Ramesh Raskar, Ranjan Ramachandra, Santanu Bhattacharya, [(PDF)](https://arxiv.org/pdf/1812.02428.pdf "Pdf") (2018)
 
-<b>Differentially Private Data Structures: </b>
-
-1.) DAMS: Meta-estimation of private sketch data structures for differentially private
-COVID-19 contact tracing, Praneeth Vepakomma, Subha Nawer Pushpita, Ramesh Raskar, PPML-NeurIPS 2020, [(PDF)](https://github.com/PrivateKit/PrivacyDocuments/blob/master/DAMS_Meta-estimation_of_private_sketch_data_structures_for_differentially_private_contact_tracing.pdf) (2020)
-
-<b>AutoML Papers: </b>
-
-1.) Accelerating neural architecture search using performance prediction, Bowen Baker, Otkrist Gupta, Ramesh Raskar, Nikhil Naik, In: conference paper at ICLR, [(PDF)](https://arxiv.org/pdf/1705.10823.pdf "Pdf") (2018)
-
-2.) Designing neural network architecture using reinforcement learning, Bowen Baker, Otkrist Gupta, Nikhil Naik & Ramesh Raskar, In: conference paper at ICLR, [(PDF)](https://arxiv.org/pdf/1611.02167.pdf "Pdf") (2017)
-
-## Upcoming: CVPR 2019 Half-Day Tutorial on “Distributed Private Machine Learning for Computer Vision: Federated Learning, Split Learning and Beyond” [(Link)](https://nopeekcvpr.github.io/ "Link").
+## Upcoming: We are organizing the Distributed and Private Machine Learning (DPML), ICLR Workshop, May 07, 2021 [(Link)](https://dp-ml.github.io/2021-workshop-ICLR/ "Link").
+## CVPR 2019 Half-Day Tutorial on “Distributed Private Machine Learning for Computer Vision: Federated Learning, Split Learning and Beyond” [(Link)](https://nopeekcvpr.github.io/ "Link").
 We are giving a half-day tutorial at CVPR 2019:
 On Distributed Private Machine Learning for Computer Vision: Federated Learning, Split Learning and Beyond by
 <b> Brendan McMahan (Google, USA)</b>, <b>Jakub Konečný</b> (Google, USA), <b>Otkrist Gupta (LendBuzz)</b>, <b>Ramesh Raskar</b> (MIT Media Lab, Cambridge, Massachusetts, USA),<b> Hassan Takabi</b> (University of North Texas, Texas, USA) and <b>Praneeth Vepakomma</b> (MIT Media Lab, Cambridge, Massachusetts, USA).
