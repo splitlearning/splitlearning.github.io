@@ -1,5 +1,7 @@
 # Workshop on Split Learning for Distributed Machine Learning (SLDML'21) 
 ### March 4-5, 2021 10:00 AM EST onwards (MIT, Virtual)
+
+[Workshop Registration Form](https://forms.gle/tmKsoVdJR43rbafF8 "Event registration form")
 <p align="center"><a href=""><img src="https://splitlearning.github.io/diab1.png" height="320" width="600"></a></p>
 
 ### Overview: 
