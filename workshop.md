@@ -17,7 +17,7 @@ It is therefore important to build an organic community for this research area, 
 | 10:00 - 10:20 AM    | Opening Remarks  | Ramesh Raskar, Praneeth Vepakomma (MIT)  |
 | 10:20 - 10:50 AM    | Keynote talk 1  | IBM T.J Watson Research  |
 | 10:50 - 11:05 AM    | Parallel Training of Deep Networks with Local Updates    | Michael Laskin, Luke Metz, Seth Nabarrao, Mark Saroufim, Badreddine Noune, Carlo Luschi, Jascha Sohl-Dickstein, Pieter Abbeel, (UC- Berkeley, Google Research, Graphcore Research)
-| 11:05 - 11:20 AM    | Distributed Heteromodal Split Learning for Vision Aided mmWave Received Power Prediction | Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu) 
+| 11:05 - 11:20 AM    | Communication-Efficient Multimodal Split Learning for mmWave Received Power Prediction  | Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu) 
 |11:20 - 11:35 AM    | Coffee Break 
 |11:35 - 11:50 AM    | Blind Learning: An efficient privacy-preserving approach for distributed learning| Gharib Gharibi, Praneeth Vepakomma (TripleBlind, MIT) 
 |11:50 - 12:05 AM    | Training Neural Networks Using Features Replay| Zhouyuan Huo, Bin Gu, Heng Huang (Google, MBZUAI, JD Finance America Corporation, University of Pittsburgh) 
@@ -43,10 +43,10 @@ It is therefore important to build an organic community for this research area, 
 | ----------------    | -------------    | -------------       |
 | 10:00 - 10:30 AM    | Keynote talk 3   | Facebook AI  |
 | 10:30 - 10:45 AM    |Label Leakage and Protection in Two-party Split Learning (tentative) | Oscar Li, Jiankai Sun, Weihao Gao, Hongyi Zhang, Xin Yang, Junyuan Xie, Chong Wang (CMU, ByteDance Inc, University of Washington)
-| 10:45 - 11:00 AM    |Distributed Min–Max Learning Scheme for Neural Networks With Applications to High-Dimensional Classification| Krishnan Raghavan, Shweta Garg, Sarangapani Jagannathan and V. A. Samaranayake (Missouri S&T)
-| 11:00 - 11:15 AM    | Communication-Efficient Multimodal Split Learning for mmWave Received Power Prediction | Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu) 
+| 10:45 - 11:00 AM    |Communication-Efficient Parallel Split Learning| Jihong Park, Seungeun Oh, Hyelin Nam, Seong-Lyun Kim, Mehdi Bennis (Deakin University, Yonsei University, University of Oulu) 
+| 11:00 - 11:15 AM    | Distributed Heteromodal Split Learning for Vision Aided mmWave Received Power Prediction | Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu) 
 |11:15 - 11:30 AM     | Splintering: A New Primitive for Distributed Computation| Praneeth Vepakomma, Julia Balla, Susovan Pal, Ramesh Raskar (MIT)
-|11:30 - 11:45 AM    | Coffee Break
+|11:30 - 11:45 AM    | Distributed Min–Max Learning Scheme for Neural Networks With Applications to High-Dimensional Classification |  Krishnan Raghavan, Shweta Garg, Sarangapani Jagannathan and V. A. Samaranayake (Missouri S&T)
 |11:45 - 12:00 PM    |Divide and Conquer: Leveraging Intermediate Feature Representations for Quantized Training of Neural Networks| Ahmed T. Elthakeb, Prannoy Pilligundla, Alex Cloninger, Hadi Esmaeilzadeh (UC-San Diego)
 |12:00 - 12:15 PM    |SplitEasy: A Practical Approach for Training ML models on Mobile Devices| Kamalesh Palanisamy (Undergrad), Vivek Khimani (Undergrad), Moin Hussain Moti, Dimitris Chatzopoulos (NIT Trichy, Drexel University, The Hong Kong University of Science and Technology-HKUST)
 |12:15 - 1:30 PM    |Lunch Break
