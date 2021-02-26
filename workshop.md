@@ -15,14 +15,14 @@ It is therefore important to build an organic community for this research area, 
 | Time (EST)            |    Title         |    Speakers         |
 | ----------------    | -------------    | -------------       |
 | 10:00 - 10:20 AM    | Opening Remarks  | Ramesh Raskar, Praneeth Vepakomma (MIT)  |
-| 10:20 - 10:50 AM    | Keynote talk 1  | Google Research  |
+| 10:20 - 10:50 AM    | Keynote talk 1  | IBM T.J Watson Research  |
 | 10:50 - 11:05 AM    | Parallel Training of Deep Networks with Local Updates    | Michael Laskin, Luke Metz, Seth Nabarrao, Mark Saroufim, Badreddine Noune, Carlo Luschi, Jascha Sohl-Dickstein, Pieter Abbeel, (UC- Berkeley, Google Research, Graphcore Research)
 | 11:05 - 11:20 AM    | Distributed Heteromodal Split Learning for Vision Aided mmWave Received Power Prediction | Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu) 
 |11:20 - 11:35 AM    | Coffee Break 
 |11:35 - 11:50 AM    | Blind Learning: An efficient privacy-preserving approach for distributed learning| Gharib Gharibi, Praneeth Vepakomma (TripleBlind, MIT) 
 |11:50 - 12:05 AM    | Training Neural Networks Using Features Replay| Zhouyuan Huo, Bin Gu, Heng Huang (Google, MBZUAI, JD Finance America Corporation, University of Pittsburgh) 
 |12:05 - 1:25 PM    |Lunch Break
-|1:25 - 1:55 PM    | Keynote talk 2  | Qualcomm  |
+|1:25 - 1:55 PM    | Keynote talk 2  | OpenMined  |
 |1:55 - 2:10 PM    |Shredder: Learning Noise to Protect Privacy with Partial DNN Inference on the Edge| Fatemehsadat Mireshghallah, Mohammadkazem Taram, Prakash Ramrakhyani, Ali Jalali, Dean Tullsen, Hadi Esmaeilzadeh (UC-San Diego, ARM Inc, Amazon)
 |2:10 - 2:25 PM    | FedSL: Federated Split Learning on Distributed Sequential Data in Recurrent Neural Networks |  Ali Abedi and Sheroz S. Khan (KITE, University Health Network, Canada. University of Toronto Canada.) 
 |2:25 - 2:40 PM    | Differentially Private Supervised Manifold Learning with Applications like Private Image Retrieval| Praneeth Vepakomma, Julia Balla, Ramesh Raskar, (MIT)
@@ -41,7 +41,7 @@ It is therefore important to build an organic community for this research area, 
 
 | Time (EST)            |    Title         |    Speakers         |
 | ----------------    | -------------    | -------------       |
-| 10:00 - 10:30 AM    | Keynote talk 3   | IBM Research  |
+| 10:00 - 10:30 AM    | Keynote talk 3   | Facebook AI  |
 | 10:30 - 10:45 AM    |Label Leakage and Protection in Two-party Split Learning (tentative) | Oscar Li, Jiankai Sun, Weihao Gao, Hongyi Zhang, Xin Yang, Junyuan Xie, Chong Wang (CMU, ByteDance Inc, University of Washington)
 | 10:45 - 11:00 AM    |Distributed Min–Max Learning Scheme for Neural Networks With Applications to High-Dimensional Classification| Krishnan Raghavan, Shweta Garg, Sarangapani Jagannathan and V. A. Samaranayake (Missouri S&T)
 | 11:00 - 11:15 AM    | Communication-Efficient Multimodal Split Learning for mmWave Received Power Prediction | Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu) 
@@ -50,7 +50,7 @@ It is therefore important to build an organic community for this research area, 
 |11:45 - 12:00 PM    |Divide and Conquer: Leveraging Intermediate Feature Representations for Quantized Training of Neural Networks| Ahmed T. Elthakeb, Prannoy Pilligundla, Alex Cloninger, Hadi Esmaeilzadeh (UC-San Diego)
 |12:00 - 12:15 PM    |SplitEasy: A Practical Approach for Training ML models on Mobile Devices| Kamalesh Palanisamy (Undergrad), Vivek Khimani (Undergrad), Moin Hussain Moti, Dimitris Chatzopoulos (NIT Trichy, Drexel University, The Hong Kong University of Science and Technology-HKUST)
 |12:15 - 1:30 PM    |Lunch Break
-| 1:30 - 2:00 PM    | Keynote talk 4  | Facebook AI  
+| 1:30 - 2:00 PM    | Keynote talk 4  |   
 | 2:00 - 2:15 PM    | Split learning for vertically partitioned data | Iker Ceballos, Vivek Sharma, Eduardo Mugica, Abhishek Singh, Praneeth Vepakomma, Ramesh Raskar (Acuratio/MIT)
 |2:15 - 2:30 PM    | Distributed Heteromodal Split Learning for Vision Aided mmWave Received Power Prediction| Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu)
 |2:30 - 2:45 PM    | Split Learning for medical imaging: Multicenter deep learning without sharing patient data| Maarten G. Poirot, Praneeth Vepakomma, Ken Chang, Jayashree Kalpathy-Cramer, Rajiv Gupta, Ramesh Raskar (MGH/MIT/Twente/BWH)
