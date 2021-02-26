@@ -45,7 +45,7 @@ It is therefore important to build an organic community for this research area, 
 | 10:30 - 10:45 AM    |Label Leakage and Protection in Two-party Split Learning (tentative) | Oscar Li, Jiankai Sun, Weihao Gao, Hongyi Zhang, Xin Yang, Junyuan Xie, Chong Wang (CMU, ByteDance Inc, University of Washington)
 | 10:45 - 11:00 AM    |Distributed Min–Max Learning Scheme for Neural Networks With Applications to High-Dimensional Classification| Krishnan Raghavan, Shweta Garg, Sarangapani Jagannathan and V. A. Samaranayake (Missouri S&T)
 | 11:00 - 11:15 AM    | Communication-Efficient Multimodal Split Learning for mmWave Received Power Prediction | Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu) 
-|11:15 - 11:30 AM     | NOPEEK: Information Leakage Reduction to Share Activations in Distributed Deep Learning| Praneeth Vepakomma, Abhishek Singh, Emily Zhang, Otkrist Gupta, Ramesh Raskar (MIT)
+|11:15 - 11:30 AM     | Splintering: A New Primitive for Distributed Computation| Praneeth Vepakomma, Julia Balla, Susovan Pal, Ramesh Raskar (MIT)
 |11:30 - 11:45 AM    | Coffee Break
 |11:45 - 12:00 PM    |Divide and Conquer: Leveraging Intermediate Feature Representations for Quantized Training of Neural Networks| Ahmed T. Elthakeb, Prannoy Pilligundla, Alex Cloninger, Hadi Esmaeilzadeh (UC-San Diego)
 |12:00 - 12:15 PM    |SplitEasy: A Practical Approach for Training ML models on Mobile Devices| Kamalesh Palanisamy (Undergrad), Vivek Khimani (Undergrad), Moin Hussain Moti, Dimitris Chatzopoulos (NIT Trichy, Drexel University, The Hong Kong University of Science and Technology-HKUST)
