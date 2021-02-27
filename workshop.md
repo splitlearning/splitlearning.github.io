@@ -42,7 +42,7 @@ It is therefore important to build an organic community for this research area, 
 | Time (EST)            |    Title         |    Speakers         |
 | ----------------    | -------------    | -------------       |
 | 10:00 - 10:30 AM    | Keynote talk 3   | Facebook AI  |
-| 10:30 - 10:45 AM    |Label Leakage and Protection in Two-party Split Learning (tentative) | Oscar Li, Jiankai Sun, Weihao Gao, Hongyi Zhang, Xin Yang, Junyuan Xie, Chong Wang (CMU, ByteDance Inc, University of Washington)
+| 10:30 - 10:45 AM    |Label Leakage and Protection in Two-party Split Learning | Oscar Li, Jiankai Sun, Weihao Gao, Hongyi Zhang, Xin Yang, Junyuan Xie, Chong Wang (CMU, ByteDance Inc, University of Washington)
 | 10:45 - 11:00 AM    |Communication-Efficient Parallel Split Learning| Jihong Park, Seungeun Oh, Hyelin Nam, Seong-Lyun Kim, Mehdi Bennis (Deakin University, Yonsei University, University of Oulu) 
 | 11:00 - 11:15 AM    | Distributed Heteromodal Split Learning for Vision Aided mmWave Received Power Prediction | Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu) 
 |11:15 - 11:30 AM     | Splintering: A New Primitive for Distributed Computation| Praneeth Vepakomma, Julia Balla, Susovan Pal, Ramesh Raskar (MIT)
