@@ -28,10 +28,12 @@ It is therefore important to build an organic community for this research area, 
 |2:25 - 2:40 PM    | Differentially Private Supervised Manifold Learning with Applications like Private Image Retrieval| Praneeth Vepakomma, Julia Balla, Ramesh Raskar, (MIT)
 |2:40 - 2:55 PM    |DISCO: Dynamic and Invariant Sensitive Channel Obfuscation| Abhishek Singh, Ayush Chopra, Vivek Sharma, Ethan Z. Garza, Emily Zhang, Praneeth Vepakomma, Ramesh Raskar (MIT, Harvard Medical School)
 |2:55 - 3:10 PM    |A Low Complexity Decentralized Neural Net with Centralized Equivalence using Layer-wise Learning| Xinyue Liang, Alireza M. Javid, Mikael Skoglund, Saikat Chatterjee, (KTH)
-|3:10 - 3:25 PM    | Interpretable Complex-Valued Neural Networks for Privacy Protection | Liyao Xianga , Hao Zhanga , Haotian Mab , Yifan Zhanga , Jie Rena , and Quanshi Zhanga, (Shanghai Jiao Tong University, South China University of Technology) 
-|3:25 - 3:30 PM    | Break 
-|3:30 - 4:15 PM    | Hands-on training workshop-Code your SL- Module 1| Abhishek Singh, Praneeth Vepakomma, Ayush Chopra  (MIT)
-|4:15 - 5:00 PM    | Hands-on training workshop-Code your SL-Module 2| Abhishek Singh, Praneeth Vepakomma, Ayush Chopra (MIT)
+|3:10 - 3:25 PM    |Unleashing the Tiger: Inference Attacks on Split Learning| Dario Pasquini, Giuseppe Ateniese, Massimo Bernaschi, (Sapienza Università di Roma, Stevens Institute of Technology)
+
+|3:25 - 3:40 PM    | Interpretable Complex-Valued Neural Networks for Privacy Protection | Liyao Xianga , Hao Zhanga , Haotian Mab , Yifan Zhanga , Jie Rena , and Quanshi Zhanga, (Shanghai Jiao Tong University, South China University of Technology) 
+|3:40 - 3:50 PM    | Break 
+|3:50 - 4:35 PM    | Hands-on training workshop-Code your SL- Module 1| Abhishek Singh, Praneeth Vepakomma, Ayush Chopra  (MIT)
+|4:35 - 5:20 PM    | Hands-on training workshop-Code your SL-Module 2| Abhishek Singh, Praneeth Vepakomma, Ayush Chopra (MIT)
 
 
 
