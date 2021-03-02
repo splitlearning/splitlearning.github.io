@@ -17,7 +17,7 @@ It is therefore important to build an organic community for this research area, 
 | 10:00 - 10:20 AM    | Opening Remarks  | Ramesh Raskar, Praneeth Vepakomma (MIT)  |
 | 10:20 - 10:50 AM    | Keynote talk 1  | OpenMined  |
 | 10:50 - 11:05 AM    | Parallel Training of Deep Networks with Local Updates    | Michael Laskin, Luke Metz, Seth Nabarrao, Mark Saroufim, Badreddine Noune, Carlo Luschi, Jascha Sohl-Dickstein, Pieter Abbeel, (UC- Berkeley, Google Research, Graphcore Research)
-| 11:05 - 11:20 AM    | Communication-Efficient Multimodal Split Learning for mmWave Received Power Prediction  | Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu) 
+| 11:05 - 11:20 AM    | Communication-Efficient Parallel Split Learning | Jihong Park, Seungeun Oh, Hyelin Nam, Seong-Lyun Kim, Mehdi Bennis (Deakin University, Yonsei University, University of Oulu) 
 |11:20 - 11:35 AM    | Coffee Break 
 |11:35 - 11:50 AM    | Blind Learning: An efficient privacy-preserving approach for distributed learning| Gharib Gharibi, Praneeth Vepakomma (TripleBlind, MIT) 
 |11:50 - 12:05 AM    | Training Neural Networks Using Features Replay| Zhouyuan Huo, Bin Gu, Heng Huang (Google, MBZUAI, JD Finance America Corporation, University of Pittsburgh) 
@@ -45,7 +45,7 @@ It is therefore important to build an organic community for this research area, 
 | ----------------    | -------------    | -------------       |
 | 10:00 - 10:30 AM    | Keynote talk 3   | Supriyo Chakraborty, IBM T.J.Watson Research  |
 | 10:30 - 10:45 AM    |Label Leakage and Protection in Two-party Split Learning | Oscar Li, Jiankai Sun, Weihao Gao, Hongyi Zhang, Xin Yang, Junyuan Xie, Chong Wang (CMU, ByteDance Inc, University of Washington)
-| 10:45 - 11:00 AM    |Communication-Efficient Parallel Split Learning| Jihong Park, Seungeun Oh, Hyelin Nam, Seong-Lyun Kim, Mehdi Bennis (Deakin University, Yonsei University, University of Oulu) 
+| 10:45 - 11:00 AM    |Communication-Efficient Multimodal Split Learning for mmWave Received Power Prediction| Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu) 
 | 11:00 - 11:15 AM    | Distributed Heteromodal Split Learning for Vision Aided mmWave Received Power Prediction | Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu) 
 |11:15 - 11:30 AM     | Splintering: A New Primitive for Distributed Computation| Praneeth Vepakomma, Julia Balla, Susovan Pal, Ramesh Raskar (MIT)
 |11:30 - 11:45 AM    | Distributed Min–Max Learning Scheme for Neural Networks With Applications to High-Dimensional Classification |  Krishnan Raghavan, Shweta Garg, Sarangapani Jagannathan and V. A. Samaranayake (Missouri S&T, Argonne National Lab)
@@ -54,14 +54,13 @@ It is therefore important to build an organic community for this research area, 
 |12:15 - 1:30 PM    |Lunch Break
 | 1:30 - 2:00 PM    | Keynote talk 4  |   
 | 2:00 - 2:15 PM    | Split learning for vertically partitioned data | Iker Ceballos, Vivek Sharma, Eduardo Mugica, Abhishek Singh, Praneeth Vepakomma, Ramesh Raskar (Acuratio/MIT)
-|2:15 - 2:30 PM    | Distributed Heteromodal Split Learning for Vision Aided mmWave Received Power Prediction| Yusuke Koda, Jihong Park, Mehdi Bennis, Koji Yamamoto, Takayuki Nishio, Masahiro Morikura (Kyoto Univ, Deakin Univ, Univ. of Oulu)
-|2:30 - 2:45 PM    | Split Learning for medical imaging: Multicenter deep learning without sharing patient data| Maarten G. Poirot, Praneeth Vepakomma, Ken Chang, Jayashree Kalpathy-Cramer, Rajiv Gupta, Ramesh Raskar (MGH/MIT/Twente/BWH)
-|2:45 - 3:00 PM    | TIPRDC: Task-Independent Privacy-Respecting Data Crowdsourcing Framework for Deep Learning with Anonymized Intermediate Representations| Ang Li, Jiayi Guo, Huanrui Yang, Yiran Chen (Duke University, Tsinghua University)
-|3:00 - 3:15 PM    | Coffee Break
-|3:15 - 3:30 PM    | SplitFed: Blending federated learning and split learning| Chandra Thapa, MAP Chamikara, and Seyit Camtepe (CSIRO Data61)
-|3:30 - 3:45 PM    | Split Learning on FPGAs| Hannah Kathleen Whisnant, Praneeth Vepakomma, Richard Younger, Ramesh Raskar (United States Military Academy at West Point, IDSS, TPP, MIT Lincoln Lab, MIT)
-|3:45 - 4:30 PM    | Hands-on training workshop-Code your SL-Module 3| Abhishek Singh, Ayush Chopra, Praneeth Vepakomma (MIT)
-|4:30 - 5:15 PM    | Closing remarks & Discussion + Social
+|2:15 - 2:30 PM    | Split Learning for medical imaging: Multicenter deep learning without sharing patient data| Maarten G. Poirot, Praneeth Vepakomma, Ken Chang, Jayashree Kalpathy-Cramer, Rajiv Gupta, Ramesh Raskar (MGH/MIT/Twente/BWH)
+|2:30 - 2:45 PM    | TIPRDC: Task-Independent Privacy-Respecting Data Crowdsourcing Framework for Deep Learning with Anonymized Intermediate Representations| Ang Li, Jiayi Guo, Huanrui Yang, Yiran Chen (Duke University, Tsinghua University)
+|2:45 - 3:00 PM    | Coffee Break
+|3:00 - 3:15 PM    | SplitFed: Blending federated learning and split learning| Chandra Thapa, MAP Chamikara, and Seyit Camtepe (CSIRO Data61)
+|3:15 - 3:30 PM    | Split Learning on FPGAs| Hannah Kathleen Whisnant, Praneeth Vepakomma, Richard Younger, Ramesh Raskar (United States Military Academy at West Point, IDSS, TPP, MIT Lincoln Lab, MIT)
+|3:30 - 4:15 PM    | Hands-on training workshop-Code your SL-Module 3| Abhishek Singh, Ayush Chopra, Praneeth Vepakomma (MIT)
+|4:15 - 5:00 PM    | Closing remarks & Discussion + Social
 
 
 ## Important Information
