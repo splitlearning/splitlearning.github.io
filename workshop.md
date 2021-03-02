@@ -52,7 +52,7 @@ It is therefore important to build an organic community for this research area, 
 |11:45 - 12:00 PM    |Divide and Conquer: Leveraging Intermediate Feature Representations for Quantized Training of Neural Networks| Ahmed T. Elthakeb, Prannoy Pilligundla, Alex Cloninger, Hadi Esmaeilzadeh (UC-San Diego)
 |12:00 - 12:15 PM    |SplitEasy: A Practical Approach for Training ML models on Mobile Devices| Kamalesh Palanisamy (Undergrad), Vivek Khimani (Undergrad), Moin Hussain Moti, Dimitris Chatzopoulos (NIT Trichy, Drexel University, The Hong Kong University of Science and Technology-HKUST)
 |12:15 - 1:30 PM    |Lunch Break
-| 1:30 - 2:00 PM    | Keynote talk 4  |   
+| 1:30 - 2:00 PM    | Keynote talk 4  | Peter Kairouz, Google  
 | 2:00 - 2:15 PM    | Split learning for vertically partitioned data | Iker Ceballos, Vivek Sharma, Eduardo Mugica, Abhishek Singh, Praneeth Vepakomma, Ramesh Raskar (Acuratio/MIT)
 |2:15 - 2:30 PM    | Split Learning for medical imaging: Multicenter deep learning without sharing patient data| Maarten G. Poirot, Praneeth Vepakomma, Ken Chang, Jayashree Kalpathy-Cramer, Rajiv Gupta, Ramesh Raskar (MGH/MIT/Twente/BWH)
 |2:30 - 2:45 PM    | TIPRDC: Task-Independent Privacy-Respecting Data Crowdsourcing Framework for Deep Learning with Anonymized Intermediate Representations| Ang Li, Jiayi Guo, Huanrui Yang, Yiran Chen (Duke University, Tsinghua University)
