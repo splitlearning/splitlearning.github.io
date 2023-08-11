@@ -197,3 +197,5 @@ MIT Alliance for Distributed and Private Machine Learning
 
 ## Potential Partner/Want to connect with us?
 Please fill this simple [form](https://forms.gle/C7dX8ynRsre4xYdP8 "form") to reach out
+
+ Accessibility details located on [accessibility.mit.edu](accessibility.mit.edu)
